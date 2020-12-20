@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Your weight in other planets</title>
+    <style type="text/css">
+        body{
+            background-color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white;
+        }
+
+        strong{
+            color: red;
+        }
+
+    </style>
+    </head>
+    <body>
+        <h1>Curious fact</h1>
+        <p>Your weight on earth <strong>is different</strong> than in other planets</p>
+        <script type="text/javascript">
+        var g_earth = 9.8;
+        var g_mars =3.7;
+        var g_jupiter =24.8;
+        var weight = prompt("What is your weight? ");
+        var weight_final= weight * g_mars / g_earth;
+        weight_final= parseInt(weight_final);
+        document.write("For explame your weight on MARS is " + weight_final +"Kg");    
+        </script>    
+    </body>
+</html> 
