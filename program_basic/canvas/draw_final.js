@@ -1,5 +1,9 @@
 var d = document.getElementById("draw_1");
 var canvas_1 = d.getContext("2d");
+var lines = 30;
+var l= 0;
+var yi,xi;
+
 
 function draw_line(color,x_ini,y_ini,x_fin,y_fin)
 {
@@ -12,9 +16,27 @@ function draw_line(color,x_ini,y_ini,x_fin,y_fin)
 
 }
 
-draw_line("red",100,100,200,100);
-draw_line("blue",100,100,100,200);
-draw_line("yellow",200,100,200,200);
-draw_line("green",100,200,200,200);
-draw_line("pink",150,50,250,50);
-draw_line("brown",100,100,150,50);
+for(l=0; l<lines ;l++)
+{
+    yi= 10 * l;
+    xi= 10 * (l+1);
+    draw_line("red",yi,0,300,xi);
+    draw_line("red",0,yi,xi,300);
+    console.log("Line"+l)
+}
+
+/*
+while (l < lines)
+{
+    yi= 10 * l;
+    xi= 10 * (l+1);
+    draw_line("red",100,yi,xi,100);
+    l= l + 1;
+}
+*/
+
+
+draw_line("blue",1,1,1,300);
+draw_line("blue",1,300,300,300);
+draw_line("blue",300,1,1,1);
+draw_line("blue",300,300,300,1);
