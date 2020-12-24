@@ -1,9 +1,10 @@
+var text = document.getElementById("box_lines");
+var button = document.getElementById("button_lines");
+button.addEventListener("click",draw_click);
+
 var d = document.getElementById("draw_1");
 var canvas_1 = d.getContext("2d");
-var lines = 30;
-var l= 0;
-var yi,xi;
-
+var width_fin= d.width; 
 
 function draw_line(color,x_ini,y_ini,x_fin,y_fin)
 {
@@ -16,14 +17,33 @@ function draw_line(color,x_ini,y_ini,x_fin,y_fin)
 
 }
 
-for(l=0; l<lines ;l++)
+
+function draw_click()
 {
-    yi= 10 * l;
-    xi= 10 * (l+1);
+    var lines = parseInt(text.value);
+    var l= 0;
+    var yi,xi;
+    var space= width_fin/lines
+
+
+    for(l=0; l<lines ;l++)
+{
+    yi= space * l;
+    xi= space * (l+1);
     draw_line("red",yi,0,300,xi);
     draw_line("red",0,yi,xi,300);
     console.log("Line"+l)
 }
+
+    draw_line("blue",1,1,1,300);
+    draw_line("blue",1,300,300,300);
+    draw_line("blue",300,1,1,1);
+    draw_line("blue",300,300,300,1);
+
+} 
+
+
+
 
 /*
 while (l < lines)
@@ -36,7 +56,3 @@ while (l < lines)
 */
 
 
-draw_line("blue",1,1,1,300);
-draw_line("blue",1,300,300,300);
-draw_line("blue",300,1,1,1);
-draw_line("blue",300,300,300,1);
