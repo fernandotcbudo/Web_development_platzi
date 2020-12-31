@@ -118,7 +118,7 @@ function movePig(event)
         RIGHT: 39
     };
 
-    switch(event.KeyCode)
+    switch(event.keyCode)
     {
         case keys.UP:
             posy= posy - movementPig;
