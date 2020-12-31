@@ -1,12 +1,13 @@
+/*L1:Adding event listener , bringing the canvas , generating 2d context.*/
 document.addEventListener("keyup",movePig);
 var vp= document.getElementById("Villaplatzi");
 var paper= vp.getContext("2d");
-
+/*L2:Defining variables of position .*/
 var amount= aleatory(5,15);
 var posx= 218;
 var posy= 218;
 
-
+/*L3:In this lines we create a literal object (json) for each image. And, its different attributes.*/
 var background= {
     url:"tile.png",
     chargeOK: false
@@ -27,6 +28,7 @@ var chi= {
     chargeOK: false
 };
 
+/*L4:In this lines we assign to each object, a new element in this case will be Image. Also the variable url and  the event load.*/
 background.image= new Image();
 background.image.src= background.url;
 background.image.addEventListener("load",charge_b);
@@ -44,7 +46,7 @@ chi.image.src= chi.url;
 chi.image.addEventListener("load",charge_ch);
 
 
-
+/*L5:We need to create functions that evaluate if the Image is charged. And initiate the drawing function..*/
 function charge_b()
 {
     background.chargeOK = true;
@@ -69,7 +71,7 @@ function charge_ch()
     chi.chargeOK = true;
     drawing();
 }
-
+/*L6:This function draw the image on the canvas with coordinates given. The for loop creates an aleatory amount of images.  .*/
 function drawing()
 {
     if (background.chargeOK)
@@ -107,7 +109,7 @@ function drawing()
     }
 
 }
-
+/*L7:With this function we can move the pig with our keyboards arrows.*/
 function movePig(event)
 {
     var movementPig= 50;
@@ -145,7 +147,7 @@ function movePig(event)
        
     
 }
-
+/*L8:This function creates an aleatory number with min and max range of numbers.*/
 function aleatory(min,max)
 {
     var result;
