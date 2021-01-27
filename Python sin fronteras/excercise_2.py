@@ -12,7 +12,6 @@ def main():
 
 def Sum_calculator():
     firstNum= input('Write the first number: ')
-    secondNum= input('Write the second number: ')
     result=''
     try:
         firstNum= int(firstNum)
@@ -20,16 +19,22 @@ def Sum_calculator():
     except:
         firstNum= 'Is not a number'
 
+    if firstNum == 'Is not a number':
+        print('Sorry is not a number')
+        exit()
+
+    secondNum= input('Write the second number: ')
     try:
         secondNum= int(secondNum)
 
     except:
         secondNum= 'Is not a number'
-    
-    if firstNum == 'Is not a number' or secondNum == 'Is not a number':
-        print('Please write a number, try again')
-    else:
-        result= print(f'The result is {firstNum+secondNum}')
+
+    if secondNum == 'Is not a number':
+        print('Sorry is not a number')
+        exit()
+
+    result= print(f'The result is {firstNum+secondNum}')
 
     return result
 
@@ -37,7 +42,6 @@ def Sum_calculator():
 
 def Subs_calculator():
     firstNum= input('Write the first number: ')
-    secondNum= input('Write the second number: ')
     result=''
     try:
         firstNum= int(firstNum)
@@ -45,16 +49,22 @@ def Subs_calculator():
     except:
         firstNum= 'Is not a number'
 
+    if firstNum == 'Is not a number':
+        print('Sorry is not a number')
+        exit()
+
+    secondNum= input('Write the second number: ')
     try:
         secondNum= int(secondNum)
 
     except:
         secondNum= 'Is not a number'
-    
-    if firstNum == 'Is not a number' or secondNum == 'Is not a number':
-        print('Please write a number, try again')
-    else:
-        result= print(f'The result is {firstNum-secondNum}')
+
+    if secondNum == 'Is not a number':
+        print('Sorry is not a number')
+        exit()
+
+    result= print(f'The result is {firstNum-secondNum}')
 
     return result
 
