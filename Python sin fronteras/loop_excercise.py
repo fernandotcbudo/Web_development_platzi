@@ -5,6 +5,8 @@
     #if i == 3:
         #continue
     #print(i)
+    
+# Loop excercises 
 
 users= ['Felipe','Diego','Robereto']
 ages=[15,24,40]
