@@ -8,8 +8,15 @@ class Animal:
 
 class Cat(Animal):
     typeA='Cat'
-class Dog(Animal):
+    def __init__(self,name,sound):
+        Animal.__init__(self,name,sound)
+        print('Yes im a cat')
+
+class Dog(Animal): 
     typeA='Dog'
+    def __init__(self,name,sound):
+        super().__init__(name,sound)
+        print('Yes im a dog')
 class Bird(Animal):
     typeA='Canary'
 
