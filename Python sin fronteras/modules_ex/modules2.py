@@ -1,9 +1,9 @@
-import modules
+from modules import pets,hi
 
-print(modules.pets)
+print(pets)
 
-for e in modules.pets:
-    print(modules.hi(e))
+for e in pets:
+    print(hi(e))
 else:
     print('Done!')
 
