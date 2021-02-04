@@ -17,6 +17,7 @@ class Dog(Animal):
     def __init__(self,name,sound):
         super().__init__(name,sound)
         print('Yes im a dog')
+        
 class Bird(Animal):
     typeA='Canary'
 
