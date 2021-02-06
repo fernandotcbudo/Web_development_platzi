@@ -1,7 +1,9 @@
-c= open('test.txt')
+c= open('test.txt','a')
 
-print(c.readline())
-print(c.readline())
-print(c.readline())
+c.writelines('\nNew line')
 
 c.close()
+
+x= open('test.txt')
+
+print(x.read())
