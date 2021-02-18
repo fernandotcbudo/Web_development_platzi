@@ -11,5 +11,9 @@ body
 
 .label
 {
-  margin: 8px;;
+  margin: 8px;
+  padding: 8px;
+  border-style: outset;
+  background-color: salmon;
+  border-bottom: 6px outset aqua;
 } 
