@@ -16,4 +16,8 @@ body
   border-style: outset;
   background-color: salmon;
   border-bottom: 6px outset aqua;
+  border-radius: 8px;
+  height: 20px;
+  width: 160px;
+  color:white
 } 
