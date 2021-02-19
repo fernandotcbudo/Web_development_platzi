@@ -4,20 +4,37 @@ body
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#parag
-{
-  color:#ff0000;
-}
-
-.label
+.box
 {
   margin: 8px;
   padding: 8px;
-  border-style: outset;
+  border-style: solid;
+  border-width: 1px;
   background-color: salmon;
-  border-bottom: 6px outset aqua;
+  border-top: solid 0px;
   border-radius: 8px;
-  height: 20px;
-  width: 160px;
+  height: 150px;
+  width: 400px;
   color:white
+  
 } 
+
+#send
+{
+  background-color: green;
+  padding: 10 px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: outset;
+  border-radius: 4px;
+  
+}
+
+#cancel
+{
+  background-color:red;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: outset;
+  border-radius: 4px;
+}
