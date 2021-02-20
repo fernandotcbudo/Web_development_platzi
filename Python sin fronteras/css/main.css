@@ -28,6 +28,7 @@ body
   border-style: outset;
   border-radius: 4px;
   
+  
 }
 
 #cancel
@@ -38,3 +39,9 @@ body
   border-style: outset;
   border-radius: 4px;
 }
+
+h1 
+{
+  text-align: center;
+}
+
