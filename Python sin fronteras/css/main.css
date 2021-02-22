@@ -45,3 +45,8 @@ h1
   text-align: center;
 }
 
+a
+{
+  text-decoration: none;
+  letter-spacing: 1px;
+}
