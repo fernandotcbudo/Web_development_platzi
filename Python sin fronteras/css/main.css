@@ -51,7 +51,10 @@ a
 {
   text-decoration: none;
   letter-spacing: 1px;
-  padding: 20px;
+  padding: 10px;
+  background-color: rgb(129, 112, 146);
+  border-radius: 4px;
+  margin: 30px;
 }
 
 a:link
@@ -62,11 +65,12 @@ a:link
 
 a:visited
 {
-  color: red;
+  color:aqua;
 }
 
 a:hover
 {
-  color:aqua ;
+  color:rgb(129, 112, 146) ;
   text-decoration: underline;
+  background-color: aquamarine;
 }
