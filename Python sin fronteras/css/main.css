@@ -51,4 +51,22 @@ a
 {
   text-decoration: none;
   letter-spacing: 1px;
+  padding: 20px;
+}
+
+a:link
+{
+  color:green;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: red;
+}
+
+a:hover
+{
+  color:aqua ;
+  text-decoration: underline;
 }
