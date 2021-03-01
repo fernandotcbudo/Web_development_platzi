@@ -74,7 +74,8 @@ a:visited
 }
 
 a:hover
-{
+{ 
+  opacity: 0.9;
   color:rgb(129, 112, 146) ;
   text-decoration: underline;
   background-color: aquamarine;
@@ -127,4 +128,11 @@ table th
 {
   background-color: rgb(82, 82, 248);
   text-align: center;
+}
+
+img
+{
+  float: right;
+  opacity: 0.6;
+  padding-right: 50px;
 }
