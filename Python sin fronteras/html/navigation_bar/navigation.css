@@ -17,6 +17,19 @@ ul
   background-color: #004C97;
 }
 
+.titulo
+{ 
+  float: right;
+  display: block;
+  font-size: larger;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  position: relative;
+  right: 400px;
+}
+
 li
 {
   float: left;
@@ -27,11 +40,19 @@ li a
   display: block;
   color: white;
   text-align: center;
+  margin-top: 4px;
   padding: 10px;
   text-decoration: none;
+  position: relative;
+  bottom: 0px;
 }
 
 li:hover
 {
   background-color: #013161;
+}
+
+.parrafo
+{
+  margin-top: 47px;
 }
