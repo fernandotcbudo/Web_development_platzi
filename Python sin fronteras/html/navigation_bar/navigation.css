@@ -5,7 +5,8 @@ body
 }
 
 
-ul
+
+#navitext
 {
   list-style-type: none;
   margin: 0;
@@ -52,3 +53,4 @@ li:hover
 {
   background-color: #013161;
 }
+
