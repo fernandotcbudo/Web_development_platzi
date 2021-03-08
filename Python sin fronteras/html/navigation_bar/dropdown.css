@@ -69,4 +69,5 @@ body
 .dropdown:hover .dropdown-cont
 {
   display: block;
+  z-index: 2;
 }
