@@ -1,10 +1,30 @@
 .benefits
 {
   position:relative; z-index: -1;
-  top: 210px;
-  width: 900px;
-  height: 900px;
+  top: 220px;
+  width: 500px;
+  height: 500px;
   text-align: left;
-  font-size: 12px;
-  overflow: auto;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.benefits:hover
+{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.benefits h2
+{
+  position: relative;
+  left: 20px;
+  bottom: 14px;
+  color: #004C97;
+  font-size: 18px;
+}
+
+.benefitlist
+{
+  font-size: 15px;
+  text-align: left;
 }
