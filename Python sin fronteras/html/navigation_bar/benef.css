@@ -1,0 +1,10 @@
+.benefits
+{
+  position:relative; z-index: -1;
+  top: 210px;
+  width: 900px;
+  height: 900px;
+  text-align: left;
+  font-size: 12px;
+  overflow: auto;
+}

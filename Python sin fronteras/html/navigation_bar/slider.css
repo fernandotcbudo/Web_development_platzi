@@ -1,16 +1,17 @@
 .slider
 { 
-  height: 180px;
+  height: 150px;
+  width: 100%;
   box-shadow:1px 1px 4px rgba(0, 0, 0, 0.3);
   background-image: url('https://www.sygnus.co/sygnuscremil/ftpimagenes/plantillas/BannerTopMEN005.fw.png');
   background-repeat: no-repeat;
   background-position:left top ;
   background-size: contain;
   background-attachment: scroll;
-  position:relative;
-  top: 50px;
-  right: 20px;
-  left: -1px;
-  bottom: 10px;
+  position:fixed; z-index: 1;
+  top: 42px;
+  right: 70px;
+  left: 1px;
+  bottom: 25px;
   
 }

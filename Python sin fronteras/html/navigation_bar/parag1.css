@@ -1,7 +1,7 @@
 .parrafo1
 {
-  position:relative;
-  top:-50px;
+  position:relative; z-index: -1;
+  top:130px;
   bottom: 80px;
 }
 
