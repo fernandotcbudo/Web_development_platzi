@@ -1,0 +1,11 @@
+body
+{
+  background-color: black;
+  color: white;
+}
+
+.grid
+{
+  display: grid;
+  grid-template-columns: 20px 20px 20px 30px ;
+}
