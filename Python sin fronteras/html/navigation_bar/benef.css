@@ -1,30 +1,28 @@
 .benefits
 {
   position:relative; z-index: -1;
-  top: 220px;
+  top: 213px;
   width: 500px;
   height: 500px;
-  text-align: left;
-  font-size: 17px;
-  transition: 0.3s;
-}
-
-.benefits:hover
-{
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
-.benefits h2
-{
-  position: relative;
-  left: 20px;
-  bottom: 14px;
+  left: 16px;
+  text-align: justify;
+  font-size: 20px;
   color: #004C97;
+}
+
+.benefits fieldset
+{
+  border: 2px solid #004C97;
+  border-radius: 4px;
   font-size: 18px;
 }
 
-.benefitlist
-{
-  font-size: 15px;
-  text-align: left;
-}
+.benefit .benefitlist li
+{ 
+  position: relative;
+  right: 10px;
+  line-height: 45px;  
+  font-size: 16px;
+  text-align: justify;
+
+  }
