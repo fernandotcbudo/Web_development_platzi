@@ -1,28 +1,32 @@
-.benefits
+.benefits 
 {
   position:relative; z-index: -1;
-  top: 213px;
+  top: 200px;
   width: 500px;
   height: 500px;
   left: 16px;
-  text-align: justify;
-  font-size: 20px;
   color: #004C97;
 }
 
-.benefits fieldset
+.benefitlist ul
+{
+  padding-bottom: 8px;
+}
+
+fieldset
 {
   border: 2px solid #004C97;
   border-radius: 4px;
-  font-size: 18px;
+  font-size: 20px;
+  
 }
 
-.benefit .benefitlist li
+.lis
 { 
   position: relative;
-  right: 10px;
-  line-height: 45px;  
-  font-size: 16px;
-  text-align: justify;
-
+  text-align: center;
+  right: 20px;
+  list-style-position: inside;
+  line-height: 25px;  
+  font-size: 12.5px;
   }

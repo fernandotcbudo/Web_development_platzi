@@ -7,5 +7,8 @@ body
 .grid
 {
   display: grid;
-  grid-template-columns: 20px 20px 20px 30px ;
-}
+  grid-template-rows: repeat(2,50px);
+  grid-template-columns: repeat(2,120px);
+} 
+
+
