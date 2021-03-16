@@ -1,14 +1,28 @@
 body
 {
   background-color: black;
-  color: white;
+  color:black;
 }
 
 .grid
 {
   display: grid;
-  grid-template-rows: repeat(2,50px);
-  grid-template-columns: repeat(2,120px);
+  grid-template-rows: repeat(4,60px);
+  grid-template-columns: repeat(2,650px);
+  grid-gap: 7px;
 } 
+
+.el
+{
+  background-color: #eee;
+}
+
+.header
+{
+  grid-column-start: 1;
+  grid-column-end:3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
 
 
