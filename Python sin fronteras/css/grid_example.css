@@ -7,8 +7,8 @@ body
 .grid
 {
   display: grid;
-  grid-template-rows: repeat(4,60px);
-  grid-template-columns: repeat(2,650px);
+  grid-template-rows: repeat(5,[row-start] 50px [row-end]);
+  grid-template-columns: repeat(2,[column-start] 400px [column-end]);
   grid-gap: 7px;
 } 
 
@@ -19,10 +19,6 @@ body
 
 .header
 {
-  grid-column-start: 1;
-  grid-column-end:3;
-  grid-row-start: 1;
-  grid-row-end: 3;
+  grid-column: column-start/column-end 2;
+  grid-row:row-start/row-end 2;
 }
-
-
