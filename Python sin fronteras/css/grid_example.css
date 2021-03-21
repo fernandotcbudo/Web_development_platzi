@@ -10,8 +10,10 @@ body
   grid-template-areas:"head head"
                       "content side"
                       "foot foot" ;
-  grid-template-rows: 150px 1fr 150px;
+  grid-template-rows: 150px 1fr 80px;
   grid-template-columns: 1fr 200px;
+  justify-items: stretch;
+  align-items: stretch;
 } 
 
 .red
