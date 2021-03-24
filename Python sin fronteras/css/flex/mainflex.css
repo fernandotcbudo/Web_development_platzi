@@ -1,12 +1,14 @@
 body
 {
   background-color: black;
-  color:white;
+  color:black;
   width: 100%;
 }
 
 .flex
 {
   display: flex;
-  flex-flow: column wrap;
+  background-color: white;
+  flex-flow: row wrap;
+  align-items: stretch;
 }
