@@ -8,8 +8,14 @@ midb= mysql.connector.connect(
 )
 cursor=midb.cursor()
 
-cursor.execute('select * from Usuario')
+#cursor.execute('select * from Usuario')
+sql= 'insert into Usuario (email,username,edad) values(%s,%s,%s)'
+values=('micorreo@emailx.com','Chanchito feliz',45)
 
-resultado=cursor.fetchall()
+cursor.execute(sql,values)
 
-print(resultado)
+midb.commit()
+
+#resultado=cursor.fetchall()
+
+print(cursor.rowcount)
