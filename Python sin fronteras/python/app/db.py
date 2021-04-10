@@ -24,3 +24,9 @@ print(resultado)
 
 #midb.commit()
 #print(cursor.rowcount)
+
+#eliminar datos
+#sql='delete from Usuario where id = %s'
+#values= (5, )
+#cursor.execute(sql,values)
+#midb.commit()
