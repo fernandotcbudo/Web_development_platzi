@@ -1,19 +1,22 @@
-from flask import Flask, request, url_for
+from flask import Flask, request, url_for, redirect, abort
 app= Flask(__name__)
 
+#ruta raiz
 @app.route('/')
 def index():
     return 'Helloooooo world'
 
-@app.route('/menu1/<post1>',methods=['GET','POST'])
+#ruta 1
+@app.route('/post/<post1>',methods=['GET','POST'])
 def menu1(post1):
     if request.method == 'GET':
             return 'El id del post es: ' + post1
     else:
         return 'Este es otro metodo '
 
-@app.route('/menu2', methods=['POST'])
+#ruta 2
+@app.route('/menu2', methods=['POST','GET'])
 def menu2():
-    print(url_for('index',post1=2))
-    print(request.form)
+    return redirect(url_for('menu1',post1=2))
+    #print(request.form['llave1'])
     return 'Menu 2'
