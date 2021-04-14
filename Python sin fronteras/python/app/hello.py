@@ -24,3 +24,8 @@ def menu2():
         "username":'blablalbla',
         "email":'blelblelbe'
     }
+
+#ruta 3
+@app.route('/home', methods=['GET'])
+def home():
+    return render_template('home.html', mensa='Esta es una prueba para extener plantillas' )
