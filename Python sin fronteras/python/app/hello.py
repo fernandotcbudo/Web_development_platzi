@@ -1,4 +1,4 @@
-from flask import Flask, request, url_for, redirect, abort
+from flask import Flask, request, url_for, redirect, abort, render_template
 app= Flask(__name__)
 
 #ruta raiz
@@ -17,6 +17,6 @@ def menu1(post1):
 #ruta 2
 @app.route('/menu2', methods=['POST','GET'])
 def menu2():
-    return redirect(url_for('menu1',post1=2))
+    #return redirect(url_for('menu1',post1=2))
     #print(request.form['llave1'])
-    return 'Menu 2'
+    return render_template('menu2.html')
