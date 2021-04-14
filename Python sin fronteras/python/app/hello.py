@@ -19,4 +19,8 @@ def menu1(post1):
 def menu2():
     #return redirect(url_for('menu1',post1=2))
     #print(request.form['llave1'])
-    return render_template('menu2.html')
+    #return render_template('menu2.html')
+    return {
+        "username":'blablalbla',
+        "email":'blelblelbe'
+    }
