@@ -1,6 +1,18 @@
 from flask import Flask, request, url_for, redirect, abort, render_template
 app= Flask(__name__)
 
+#importando mysql
+import mysql.connector
+
+midb= mysql.connector.connect(
+    host='localhost',
+    user='root',
+    password='secret',
+    database='prueba1'
+)
+
+cursor=midb.cursor()
+
 #ruta raiz
 @app.route('/')
 def index():
@@ -17,13 +29,16 @@ def menu1(post1):
 #ruta 2
 @app.route('/menu2', methods=['POST','GET'])
 def menu2():
+    cursor.execute('select * from Usuario')
+    cursor= cursor.fetchall()
     #return redirect(url_for('menu1',post1=2))
     #print(request.form['llave1'])
     #return render_template('menu2.html')
-    return {
-        "username":'blablalbla',
-        "email":'blelblelbe'
-    }
+    #return {
+        #"username":'blablalbla',
+        #"email":'blelblelbe'
+    #}
+    return render_template('menu2.html')
 
 #ruta 3
 @app.route('/home', methods=['GET'])
