@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 midb= mysql.connector.connect(
     host='localhost',
     user='root',
@@ -12,6 +13,7 @@ cursor=midb.cursor()
 cursor.execute('select * from Usuario')
 resultado=cursor.fetchall()
 print(resultado)
+
 
 #insetar datos
 #sql= 'insert into Usuario (email,username,edad) values(%s,%s,%s)'

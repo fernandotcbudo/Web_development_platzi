@@ -4,6 +4,7 @@ app= Flask(__name__)
 #importando mysql
 import mysql.connector
 
+
 midb= mysql.connector.connect(
     host='localhost',
     user='root',
@@ -11,7 +12,7 @@ midb= mysql.connector.connect(
     database='prueba1'
 )
 
-cursor=midb.cursor()
+cursor= midb.cursor(dictionary=True)
 
 #ruta raiz
 @app.route('/')
@@ -30,7 +31,7 @@ def menu1(post1):
 @app.route('/menu2', methods=['POST','GET'])
 def menu2():
     cursor.execute('select * from Usuario')
-    cursor= cursor.fetchall()
+    usuarios= cursor.fetchall()
     #return redirect(url_for('menu1',post1=2))
     #print(request.form['llave1'])
     #return render_template('menu2.html')
@@ -38,7 +39,7 @@ def menu2():
         #"username":'blablalbla',
         #"email":'blelblelbe'
     #}
-    return render_template('menu2.html')
+    return render_template('menu2.html',usuarios=usuarios)
 
 #ruta 3
 @app.route('/home', methods=['GET'])
