@@ -45,3 +45,8 @@ def menu2():
 @app.route('/home', methods=['GET'])
 def home():
     return render_template('home.html', mensa='Esta es una prueba para extener plantillas' )
+
+#ruta 4 
+@app.route('/crear'),methods=['GET','POST']
+def crear():
+    return render_template('crear.html')
