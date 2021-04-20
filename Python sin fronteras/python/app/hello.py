@@ -47,6 +47,16 @@ def home():
     return render_template('home.html', mensa='Esta es una prueba para extener plantillas' )
 
 #ruta 4 
-@app.route('/crear'),methods=['GET','POST']
+@app.route('/crear', methods=['GET','POST'])
 def crear():
+    if request.method == "POST":
+        username= request.form['username']
+        email= request.form['email']
+        edad= request.form['edad']
+        sql="insert into Usuario (username,email,edad) values(%s,%s,%s)"
+        values=(username,email,edad)
+        cursor.execute(sql,values)
+        midb.commit()
+
+        return redirect (url_for('menu2'))
     return render_template('crear.html')
