@@ -7,11 +7,14 @@ from .schema import instructions
 
 def get_db():
     if 'db' not in g:
-        host=current_app.config['DATABASE_HOST'],
-        user=current_app.config['DATABASE_USER'],
-        password=current_app.config['DATABASE']
+        g.db = mysql.connector.connect(
+            host=current_app.config['DATABASE_HOST'],
+            user=current_app.config['DATABASE_USER'],
+            password=current_app.config['DATABASE_PASSWORD'],
+            database=current_app.config['DATABASE']
+        )
 
-        g.c= g.db.cursor(dictionary=True)
+        g.c = g.db.cursor(dictionary=True)
     return g.db, g.c
 
 def close_db(e=None):
@@ -21,7 +24,7 @@ def close_db(e=None):
         db.close()
 
 def init_db():
-    db,c = get_db()
+    db, c = get_db()
     for i in instructions:
         c.execute(i)
     db.commit()
@@ -34,3 +37,4 @@ def init_db_command():
 
 def init_app(app):
     app.teardown_appcontext(close_db)
+    app.cli.add_command(init_db_command)
