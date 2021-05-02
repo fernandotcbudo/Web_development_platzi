@@ -5,13 +5,13 @@
 <nav>
   <h1>Todo List</link>
   <ul>
-    {%if g.user%}
-      <li><span>{{g.user['username']}}</span></li>
-      <li><a href="{{url_for('auth.logout'}}">Cerrar sesión</a></li>
+    {% if g.user %}
+      <li><span>{{ g.user['username'] }}</span></li>
+      <li><a href="{{url_for('auth.logout')}}">Cerrar sesión</a></li>
   
-    {%else%}
-      <li><a href="{{url_for('auth.register'}}">Registrarse</a></li>
-      <li><a href="{{url_for('auth.login'}}">Iniciar sesión</a></li>
+    {% else %}
+      <li><a href="{{url_for('auth.register')}}">Registrarse</a></li>
+      <li><a href="{{url_for('auth.login')}}">Iniciar sesión</a></li>
     {% endif %}
   </ul>
 </nav>
@@ -24,3 +24,4 @@
   <div class="flash">{{message}}</div>
   {%endfor%}
   {%block content%} {% endblock%}
+</section>
