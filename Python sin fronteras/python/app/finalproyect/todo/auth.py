@@ -31,7 +31,7 @@ def register():
 
         if error is None:
             c.execute(
-                'insert into user (username,password) values (%s,%s)'
+                'insert into user (username,password) values (%s,%s)',
                 (username,generate_password_hash(password))
             )
 
@@ -43,6 +43,7 @@ def register():
         
     return render_template('auth/register.html')
 
+@bp.route('/login', methods=['GET','POST'])
 def login():
     if request.method == 'POST':
         username= request.form['username']
