@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1> {%block title%}Todos{%endblock%}</h1>
+  {%if g.user%}
+    <a class="action" href="{{url_for('todo.create')}}">Nuevo</a>
+  {%endif%}
+{% endblock %}
+
