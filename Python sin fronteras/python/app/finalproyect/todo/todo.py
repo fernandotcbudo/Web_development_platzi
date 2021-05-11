@@ -22,7 +22,7 @@ def index():
 @bp.route('/create', methods=['GET','POST'])
 @login_required
 def create():
-    return ''
+    return render_template('todo/create.html')
 
 @bp.route('/update', methods=['GET','POST'])
 @login_required
