@@ -1,0 +1,12 @@
+ body{
+     background-color: black;
+     color:white;
+ }
+
+ header{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .boton{
+     background-color: tomato;
+ }
