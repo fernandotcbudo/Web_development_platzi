@@ -42,7 +42,7 @@ def create():
             return redirect(url_for('todo.index'))
     return render_template('todo/create.html')
 
-@bp.route('/update', methods=['GET','POST'])
+@bp.route('/<int:id>/update', methods=['GET','POST'])
 @login_required
 def update():
-    return ''
+    return render_template('todo/update.html', todo=todo)
