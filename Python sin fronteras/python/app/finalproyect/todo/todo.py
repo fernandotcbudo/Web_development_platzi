@@ -42,10 +42,16 @@ def create():
             return redirect(url_for('todo.index'))
     return render_template('todo/create.html')
 
+
+
 @bp.route('/<int:id>/update', methods=['GET','POST'])
 @login_required
 def update(id):
-    return render_template('todo/update.html', todo=todo)
+    return render_template('todo/update.html', todo={
+        "description":"Mi todo",
+        "id": 2,
+        "completed": 0
+    })
 
 @bp.route('/<int:id>/delete', methods=['POST'])
 @login_required
