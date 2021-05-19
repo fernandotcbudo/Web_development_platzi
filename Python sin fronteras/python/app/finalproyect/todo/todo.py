@@ -42,6 +42,20 @@ def create():
             return redirect(url_for('todo.index'))
     return render_template('todo/create.html')
 
+def get_todo(id):
+    db, c= get_db()
+    c.execute(
+        ' select t.id. t.description, t.completed, t.created_by, t.created_at, u.username'
+        ' from todo t join user u on t.created_by = u.id where t.id = %s',
+        (id, )
+    )
+
+    todo= c.fetchone
+
+    if todo is None:
+        abort(404, "El todo de id {0} no existe".format(id))
+
+    return todo
 
 
 @bp.route('/<int:id>/update', methods=['GET','POST'])
