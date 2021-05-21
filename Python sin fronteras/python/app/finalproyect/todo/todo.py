@@ -76,17 +76,17 @@ def update(id):
         else:
             db, c= get_db()
             c.execute(
-                'update todo set description= %s, completed= %s'
+                'update todo set description= %s, completed= %s' 
                 'where id = %s',
                 (description,completed,id)
-            )
+            )   
             db.commit()
             return redirect(url_for('todo.index'))
             
-    return render_template('todo/update.html', todo=todo)
+    return render_template('todo/update.html', todo=todo())
  
 
 @bp.route('/<int:id>/delete', methods=['POST'])
 @login_required
-def delete():
+def delete(id):
     return ''

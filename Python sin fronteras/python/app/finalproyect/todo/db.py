@@ -12,6 +12,7 @@ def get_db():
             user=current_app.config['DATABASE_USER'],
             password=current_app.config['DATABASE_PASSWORD'],
             database=current_app.config['DATABASE']
+    
         )
 
         g.c = g.db.cursor(dictionary=True)
