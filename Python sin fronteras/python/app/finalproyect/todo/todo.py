@@ -50,7 +50,7 @@ def get_todo(id):
         (id,)
     )
 
-    todo= c.fetchone
+    todo= c.fetchone()
 
     if todo is None:
         abort(404, "El todo de id {0} no existe".format(id))
@@ -76,14 +76,16 @@ def update(id):
         else:
             db, c= get_db()
             c.execute(
-                'update todo set description= %s, completed= %s' 
-                'where id = %s',
+                
+                'update todo set description= %s, completed= %s where id = %s', 
+        
                 (description,completed,id)
+                
             )   
             db.commit()
             return redirect(url_for('todo.index'))
             
-    return render_template('todo/update.html', todo=todo())
+    return render_template('todo/update.html', todo=todo)
  
 
 @bp.route('/<int:id>/delete', methods=['POST'])
