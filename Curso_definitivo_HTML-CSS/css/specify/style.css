@@ -1,0 +1,41 @@
+ *{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+ }
+ 
+ h1 {
+     font-family: serif;
+     color:blueviolet;
+     margin-bottom: 10px;
+ }
+
+ #page-title{
+     font-family: sans-serif;
+ }
+
+ .title{
+     font-size: 18px;
+ }
+
+ #main-nav{
+    margin-top: 10px;
+    list-style-type: none;
+    padding-left: 0px;
+ }      
+
+ #main-nav li{
+     display:inline-block;
+ }
+
+ #main-nav a{
+    color:white;
+    background-color:#13a4a4;
+    text-decoration:none;
+    border-radius: 2px;
+    padding:5px;
+}
+
+#main-nav .a-log{
+    background-color:orange;
+}
