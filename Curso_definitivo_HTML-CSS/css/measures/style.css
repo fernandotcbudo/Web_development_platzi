@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.text-container{
+    font-size: 2rem;
+} 
+
+.text-container div > p{
+    font-size: 1.6rem;
+} 
