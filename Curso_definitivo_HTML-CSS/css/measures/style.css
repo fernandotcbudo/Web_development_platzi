@@ -10,8 +10,20 @@ html{
 
 .text-container{
     font-size: 2rem;
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
 } 
 
 .text-container div > p{
     font-size: 1.6rem;
 } 
+
+.text-container section{
+    background-color:burlywood;
+    border-radius: 0.8rem;
+    width: 80%;
+    min-height: 500px;
+    margin: 0 auto;
+    padding: 0.8rem 0.9rem;
+}
