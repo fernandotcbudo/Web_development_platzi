@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-section{
+    background: url(https://as1.ftcdn.net/jpg/03/44/88/10/500_F_344881059_ctAh1EHXcXdwHcJ3kPR6KYiWTrlmlm8D.jpg);
+    width:100vw;
+    height:20vh;
+}
+
+.main-section > figure > img{
+    width:140px;
+    height:140px;
+    position: relative;
+    right: 20px;
+} 
+
+.main-section .nav-one > li{
+    display:inline-block;
+    color: white;
+    font-family:Ubuntu;
+    font-size:18px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 15px;
+    padding: 8px;
+    position:relative;
+    left:970px;
+    top:-100px;
+} 
+
+.main-section2{
+    background-color:lightgray;
+    width:20vw;
+    height:80vh;
+    grid-area: aside;
+    display:flex;
+    flex-direction: column;
+}
+
+.footer-section{
+    background-color:black;
+    width:100vw;
+    height:15vh;
+    grid-area:footer;
+    display:flex;
+    flex-direction: row;
+}
