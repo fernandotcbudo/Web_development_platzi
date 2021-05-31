@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html{
+    overflow-x: hidden;
+}
+
 .main-section{
     background: url(https://as1.ftcdn.net/jpg/03/44/88/10/500_F_344881059_ctAh1EHXcXdwHcJ3kPR6KYiWTrlmlm8D.jpg);
     width:100vw;
@@ -70,10 +74,18 @@
 .footer-section{
     background-color:black;
     width:100vw;
-    height:8vh;
+    height:5vh;
     grid-area:footer;
     display:flex;
     flex-direction: row;
+}
+
+.footer-section .footer-p{
+    color:white;
+    font-family: monospace;
+    margin-top:8px;
+    position: relative;
+    left: 1100px;
 }
 
 .title-main{
@@ -83,4 +95,12 @@
     top: -40px;
     right:-100px;
 
+}
+
+.p-content{
+    width:75vw;
+    text-align: justify;
+    font-family:Ubuntu;
+    position:relative;
+    left: 300px;
 }
