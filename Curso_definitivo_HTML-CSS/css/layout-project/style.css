@@ -7,14 +7,15 @@
 .main-section{
     background: url(https://as1.ftcdn.net/jpg/03/44/88/10/500_F_344881059_ctAh1EHXcXdwHcJ3kPR6KYiWTrlmlm8D.jpg);
     width:100vw;
-    height:20vh;
+    height:15vh;
 }
 
 .main-section > figure > img{
-    width:140px;
-    height:140px;
+    width:120px;
+    height:120px;
     position: relative;
     right: 20px;
+    top: -9px;
 } 
 
 .main-section .nav-one > li{
@@ -28,7 +29,7 @@
     padding: 8px;
     position:relative;
     left:970px;
-    top:-100px;
+    top:-90px;
 } 
 
 .main-section2{
@@ -40,11 +41,46 @@
     flex-direction: column;
 }
 
+.main-section2 #img1{
+    width:230px;
+    height:150px;
+    position: relative;
+    right: -18px;
+    top: 15px;
+  
+}
+
+.main-section2 #img2{
+    width:230px;
+    height:150px;
+    position: relative;
+    right: -18px;
+    top: 25px;
+  
+}
+
+.main-section2 #img3{
+    width:230px;
+    height:150px;
+    position: relative;
+    right: -18px;
+    top: 35px;
+  
+}
 .footer-section{
     background-color:black;
     width:100vw;
-    height:15vh;
+    height:8vh;
     grid-area:footer;
     display:flex;
     flex-direction: row;
+}
+
+.title-main{
+    font-family: Ubuntu;
+    text-align: center;
+    position: relative;
+    top: -40px;
+    right:-100px;
+
 }
