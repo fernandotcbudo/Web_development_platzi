@@ -1,0 +1,39 @@
+ :root{
+     --primary-color:#003476;
+     --secondary-color:rgb(230, 192, 144);
+     --header-size: 4rem;
+     --font:1.8rem;
+ }
+ 
+ *{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+ }
+
+ html{
+     font-size: 62.5%;
+ }
+
+ header{
+    width: 100vw;
+    height: 15vh;
+    background-color:#003476;
+ }
+
+ main{
+    width: 100vw;
+    height: 70vh;
+    font-size:1.8rem;
+ }
+
+ h1{
+     font-size: var(--header-size);
+     color: var(--primary-color);
+ }
+
+ footer{
+    width: 100vw;
+    height: 15vh;
+    background-color:var(--secondary-color);
+ }
