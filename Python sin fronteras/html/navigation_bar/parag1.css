@@ -1,8 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+}
+
 .parrafo1
 {
+  display: flex;
+  flex-wrap: wrap;
   position:relative; z-index: -1;
-  top:130px;
-  bottom: 80px;
+  top:1px;
 }
 
 .titulo1
