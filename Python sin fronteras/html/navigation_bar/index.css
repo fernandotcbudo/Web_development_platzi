@@ -12,12 +12,10 @@ html{
 
 .navitext
 {
+  display: flex;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
   position: fixed;
-  top:0; 
   width: 100%;
   left:0;
   font-family: Arial, Helvetica, sans-serif;
@@ -35,12 +33,7 @@ html{
   padding: 1rem;
   text-decoration: none;
   position: relative;
-  right: 40rem;
-}
-
-li
-{
-  float: right;
+  right: 8rem;
 }
 
 li a
@@ -49,13 +42,13 @@ li a
   color: white;
   text-align: center;
   margin-top: 0.4rem;
-  padding: 1.2rem;
+  padding: 1rem;
   text-decoration: none;
   position: relative;
-  bottom: 0px;
+  left: 90rem;
 }
 
-li:hover
+li :hover
 {
   background-color: #013161;
 }
@@ -205,4 +198,22 @@ fieldset
   list-style-position: inside;
   line-height: 2.5rem;  
   font-size: 1.25rem;
+  }
+
+/* Footer */
+
+  .footer{
+    background-color:#004C97;
+    width:100vw;
+    height:6vh;
+    grid-area: footer;
+    flex-direction: row-reverse;
+    position:fixed;
+    bottom:0.01rem;
+  }
+
+  .footer-p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size:2rem;
   }
