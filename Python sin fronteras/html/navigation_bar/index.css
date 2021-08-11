@@ -32,10 +32,10 @@ html{
   font-size: 2rem;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 1rem;
   text-decoration: none;
   position: relative;
-  right: 400px;
+  right: 40rem;
 }
 
 li
@@ -48,8 +48,8 @@ li a
   display: block;
   color: white;
   text-align: center;
-  margin-top: 4px;
-  padding: 12px;
+  margin-top: 0.4rem;
+  padding: 1.2rem;
   text-decoration: none;
   position: relative;
   bottom: 0px;
@@ -66,7 +66,7 @@ li:hover
 {
   display: flex;
   flex-wrap: wrap;
-  height: 11px;
+  height: 2.5rem;
 
 }
 
@@ -76,15 +76,15 @@ li:hover
   text-align: center;
   color:white;
   position: fixed;
-  left: -8px;
-  right: 50px;
-  bottom: 599px;
+  left: -0.8rem;
+  right: 5rem;
+  bottom: 59.82rem;
   border:none;
   cursor:pointer;
-  padding-top: 11px;
-  padding-bottom: 15px;
-  padding-right: 12px;
-  padding-left:15px;
+  padding-top: 1.1rem;
+  padding-bottom: 1.4rem;
+  padding-right: 1.2rem;
+  padding-left:1.5rem;
   font-size: 1.5rem;
 } 
 
@@ -99,12 +99,12 @@ li:hover
   background-color: white;
   font-family: Arial, Helvetica, sans-serif;
   display: none;
-  width: 200px;
+  width: 20rem;
   font-size: 1.2rem;
   position: fixed;
-  top:15px;
-  right: 30px;
-  left: -8px;
+  top:1.5rem;
+  right: 3rem;
+  left: -0.8rem;
   text-align:center;
 
 }
@@ -117,7 +117,7 @@ li:hover
   color: #013161;
   text-align: center;
   text-decoration: none;
-  padding:10px 16px;
+  padding:1rem 1.6rem;
 }
 
 
@@ -130,9 +130,9 @@ li:hover
 {
   display: block;
   position: fixed;
-  top:43px;
-  bottom: 1px;
-  height: 200px;
+  top:4.3rem;
+  bottom: 0.1rem;
+  height: 20rem;
   z-index: 2;
 }
 
@@ -149,27 +149,27 @@ li:hover
   display: flex;
   flex-wrap: wrap;
   position:relative; z-index: -1;
-  top:1px;
+  top:0.1rem;
 }
 
 .titulo1
 {
   position:relative;
   color:#004C97;
-  top:105px;
-  bottom: 80px;
-  left: 500px;
+  top:10.5rem;
+  bottom: 8rem;
+  left: 50rem;
 }
 
 .p1
 { 
-  height: 200px;
-  width: 500px;
-  font-size: 18px;
+  height: 20rem;
+  width: 50rem;
+  font-size: 1.8rem;
   text-align:justify;
   position: relative;
-  top:120px;
-  left: 20px;
+  top:12rem;
+  left: 2rem;
 }
 
 /* Side content 2 */
@@ -177,23 +177,23 @@ li:hover
 .benefits 
 {
   position:relative; z-index: -1;
-  top: 200px;
-  width: 500px;
-  height: 500px;
-  left: 16px;
+  top: 20rem;
+  width: 50rem;
+  height: 50rem;
+  left: 1.6rem;
   color: #004C97;
 }
 
 .benefitlist ul
 {
-  padding-bottom: 8px;
+  padding-bottom: 0.8rem;
 }
 
 fieldset
 {
-  border: 2px solid #004C97;
-  border-radius: 4px;
-  font-size: 20px;
+  border: 0.2rem solid #004C97;
+  border-radius: 0.4rem;
+  font-size: 2rem;
   
 }
 
@@ -201,8 +201,8 @@ fieldset
 { 
   position: relative;
   text-align: center;
-  right: 20px;
+  right: 2rem;
   list-style-position: inside;
-  line-height: 25px;  
-  font-size: 12.5px;
+  line-height: 2.5rem;  
+  font-size: 1.25rem;
   }
