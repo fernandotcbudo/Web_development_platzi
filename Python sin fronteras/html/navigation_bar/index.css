@@ -51,6 +51,7 @@ li a
 li :hover
 {
   background-color: #013161;
+  border-radius: 0.4rem;
 }
 
 /* Dropdown menu and button */
@@ -132,17 +133,14 @@ li :hover
 /* Side content */
 
 
-.titulo
-{
-  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
-}
-
 .parrafo1
 {
   display: flex;
-  flex-wrap: wrap;
+  overflow: scroll;
   position:relative; z-index: -1;
-  top:0.1rem;
+  background-color: #a7a7a7;
+  width:50%;
+  height:200vh;
 }
 
 .titulo1
@@ -160,54 +158,20 @@ li :hover
   width: 50rem;
   font-size: 1.8rem;
   text-align:justify;
-  position: relative;
   top:12rem;
   left: 2rem;
 }
 
-/* Side content 2 */
 
-.benefits 
-{
-  position:relative; z-index: -1;
-  top: 20rem;
-  width: 50rem;
-  height: 50rem;
-  left: 1.6rem;
-  color: #004C97;
-}
-
-.benefitlist ul
-{
-  padding-bottom: 0.8rem;
-}
-
-fieldset
-{
-  border: 0.2rem solid #004C97;
-  border-radius: 0.4rem;
-  font-size: 2rem;
-  
-}
-
-.lis
-{ 
-  position: relative;
-  text-align: center;
-  right: 2rem;
-  list-style-position: inside;
-  line-height: 2.5rem;  
-  font-size: 1.25rem;
-  }
 
 /* Footer */
 
   .footer{
     background-color:#004C97;
-    width:100vw;
+    width:100%;
     height:6vh;
     grid-area: footer;
-    flex-direction: row-reverse;
+    flex-direction: row;
     position:fixed;
     bottom:0.01rem;
   }
@@ -215,5 +179,8 @@ fieldset
   .footer-p{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-    font-size:2rem;
+    font-size:1.5rem;
+    text-align:right;
+    padding-top: 0.9rem;
+    padding-right: 2rem;
   }
