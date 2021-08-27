@@ -47,6 +47,7 @@ nav .nav-right-section .menu-icon{
     background-repeat: no-repeat;
     background-position:center;
     background-size: contain;
+    cursor: pointer;
     width: 2.5rem;
     height: 2.5rem;
 }
@@ -92,4 +93,47 @@ main .main-input input{
     height: 40px;
     border: none;
     outline: none;
+}
+
+main .main-input-container :hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
+
+main .main-input .search-icon{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/945px-Vector_search_icon.svg.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width:18px;
+    height:18px;
+}
+
+main .main-input .micro-icon{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width:20px;
+    height:20px;
+    cursor:pointer;
+}
+
+main .main-buttons{
+    width: 530px;
+    margin: 0 auto;
+}
+
+main .main-buttons div{
+    display:inline-block;
+}
+
+main .main-buttons button{
+    height:36px;
+    background-color: #f2f2f2;
+    border:0;
+    font-size:1.4rem;
+    color:#5f6368;
+    border-radius:5px;
+    padding:0 1.5rem;
 }
