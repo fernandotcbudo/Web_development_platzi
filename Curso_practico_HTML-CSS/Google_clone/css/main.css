@@ -100,6 +100,7 @@ main .main-input-container :hover{
     border-color: #dfe1e500;
 }
 
+
 main .main-input .search-icon{
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/945px-Vector_search_icon.svg.png');
     background-repeat: no-repeat;
@@ -136,4 +137,12 @@ main .main-buttons button{
     color:#5f6368;
     border-radius:5px;
     padding:0 1.5rem;
+    margin-right:25px;
+}
+
+main .main-buttons button:hover{
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px #00000001;
+    color:#222;
+
 }
