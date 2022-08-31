@@ -1,0 +1,153 @@
+div > #animation{
+    position:relative;
+    left:170px;
+    top:-12px;
+    height:300px;
+    width: 300px;
+}
+
+#wrapper-1 {
+    position:relative;
+    left:60px;
+    top:-90px;
+    width: 300px;
+}
+
+#wrapper-2 {
+    position:relative;
+    left:30px;
+    top:-100px;
+    width: 200px;
+}
+
+#wrapper-3 {
+    position:relative;
+    left:170px;
+    top:-25px;
+    width: 300px;
+}
+
+#img-1 , #img-2 , #img-3{
+    position: relative;
+    left:50px;
+    top:-70px;
+    margin-right: 10px;
+    border-radius: 8px;
+    width: 8rem;
+    height: 8rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+#text-1, #text-2, #text-3{
+    position:absolute;
+    top:130px;
+    font-size:15px; 
+  }
+
+
+  #desc-img1{
+    color:var(--blue-main) !important;
+    width:225px;
+    text-align:center;
+    position: absolute;
+    top:180px;
+    left:67px;
+    font-weight: bold;
+}
+
+#desc-img2{
+    color:var(--blue-main) !important;
+    width:225px;
+    text-align:center;
+    position: absolute;
+    top:180px;
+    left:380px;
+    font-weight: bold;
+}
+
+#desc-img3{
+    color:var(--blue-main) !important;
+    width:225px;
+    text-align:center;
+    position: absolute;
+    top:180px;
+    left:690px;
+    font-weight: bold;
+}
+
+#news > div > i{
+    position: relative;
+    top:20px;
+    left:-80px;
+    z-index:-1;
+}
+
+#section_title{
+    position:relative;
+    top:40px;
+    left:-10px;
+}
+
+
+#text-1, #text-2, #text-3{
+    position:absolute;
+    top:130px;
+    font-size:15px; 
+  }
+
+#section_title{
+    position:relative;
+    top:40px;
+    left:-10px;
+}
+
+#text-1 {
+    position:absolute;
+    font-size:12px;  
+    left:10px;
+    top:5px;
+}
+
+#text-2 {
+    position:absolute;
+    font-size:12px;  
+    left:20px;
+}
+
+#text-3 {
+    position:absolute;
+    font-size:12px;  
+    left:60px;
+    top:80px;
+}
+
+#politics-footer{
+    position:relative;
+    top:60px;
+    left:-30px;
+}
+
+#button-footer{
+    position:relative;
+    top:30px;
+    left:-10px;
+}
+
+#politics-footer > h6{
+    position: relative;
+    top:30px;
+
+}
+
+#img-footer {
+    position: relative;
+    left:210px;
+    width: 300px;
+    height:200px;   
+}
+
+#data-footer{
+    position:relative;
+    left:120px;
+    top:-12px;
+}
