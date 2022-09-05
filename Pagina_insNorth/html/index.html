@@ -18,7 +18,7 @@
 </head>
 <body>
        <!-- NAVEGACION --> 
-       <header class="conteiner-fluid">
+      <header class="conteiner-fluid">
         <nav class="navbar navbar-expand-lg navbar-light  bg-light p-2 shadow p-3 mb-0 bg-body fixed-top">
           <div class="container-fluid">
             <a class="navbar-brand" href="#">
@@ -51,6 +51,8 @@
           </div>
         </nav>
       </header>
+
+
       <!-- SECTION 1-->
       <div class="container-fluid">
         <div class="row" id="blue-section"> 
@@ -64,26 +66,24 @@
 
           <div class="col-sm-12 col-md-12 col-lg-6"> 
             <object data="/images/gear-svgrepo-other.svg" id="animation"  type="image/svg+xml"></object>
-          <div/> 
           </div>
         </div>  
+      </div>
       
       <!-- VIDEO -->  
-      <div class="video-container"> 
+      <div class="container-fluid" id="video-container"> 
+        <div class="row" id="video-row">
+          <h3 class="text-start text-center p-4" id="video_title">Nuestro objetivo es ayudarte a mejorar</h3>
           <video id="bgvid" autoplay loop muted playsinline>
             <source src="/images/final.mp4" type="video/mp4">
           </video>
+        </div>
       </div>
-
-      <!-- TITULO VIDEO -->
-
-      <h3 class="text-start text-center p-4" id="video_title">Nuestro objetivo es ayudarte a mejorar</h3>
-
 
       <!-- SECTION 2 / NOTICIAS-->
     
       <div class="container-fluid" id="white-section">
-        <div class="row" style="padding: 0;">
+        <div class="row" style="padding: 0;" >
           <div class="col-md-12" style="padding:0">
             <h3 class="text-start text-center p-2" id="news_title">Últimas noticias</h3>
           </div>
@@ -242,11 +242,9 @@
                     <div class="slide">
                       <img src="/images/fusionet.png" alt="">
                     </div>
-                  </div>
+                </div>
               </div>
-            
-          </div>
-             
+          </div>  
           </div>   
         </div>
 
