@@ -7,7 +7,7 @@
     --blue_strong:#173b77;
     --red-main: #c1193a;
     --gray-main: #404040;
-    --gray-second: #d6d5d5;
+    --gray-second: #e4e4e4;
     --black:#0d0d0d;
     --white: #FFFFFF;
     box-sizing: border-box;
@@ -66,7 +66,7 @@ body {
     background-image: url('/images/55_preview_white.png');
     background-repeat:no-repeat;
     z-index: 2;
-    max-height:44.75rem;
+    max-height:57.75rem;
 }
 
 
@@ -108,7 +108,7 @@ body {
 /* Estilos video */
 #video_title{
     position:relative;
-    top:-18.125rem;
+    top:-20.125rem;
     width:100%;
     color:var(--white);
     padding: 1rem 1rem;
@@ -120,11 +120,10 @@ body {
     margin: 0;
 }
 
-/* Estilos del video */
 
 .video-container{
     position:relative;
-    top:5.4375rem;   
+    top:20.4375rem;   
     width: 100%;
     height:33.375rem;
     overflow: hidden;
@@ -167,7 +166,7 @@ body {
     width:50%;
     color:var(--blue-main);
     position:relative;
-    top:2.5rem;
+    top:8.5rem;
     left:-11.25rem;
 }
 
@@ -175,7 +174,7 @@ body {
 
 #news{
     position: absolute;
-    bottom:1.25rem;
+    top:500px;
 
 }
  
@@ -289,6 +288,8 @@ body {
     height:28.125rem;
     display:flex;
     margin:0;
+    position: relative;
+    top:275px;
     
 }
 
@@ -302,12 +303,13 @@ body {
     width:10.125rem;
 } 
 
-#nosotros #p-nosotros {
+#nosotros #text-nosotros #p-nosotros {
     position:relative;
     top:0.9375rem;
     left:0.9375rem;
     width:38.125rem;
     text-align: justify;
+    margin-right: 0 !important;
 } 
 
 #nosotros #titulo-mision {
@@ -316,15 +318,17 @@ body {
     position:relative;
     top:-17.8125rem;
     left:40.625rem;
-    width:10.125rem;
+    width:10.125rem;    
+    margin: 0;
 } 
 
-#nosotros #p-mision {
+#nosotros #text-mision #p-mision {
     position:relative;
     top:-19.0625rem;
     left:40.625rem;
     width:37.125rem;
     text-align: justify;
+    margin: 0;
 } 
 
 #nosotros #titulo-vision {
@@ -340,10 +344,10 @@ body {
     padding: 0;
 }
 
-#nosotros #p-vision {
+#nosotros #text-mision #p-vision {
     position:relative;
-    top:-21.25rem;
-    left:40.625rem;
+    top:-10.25rem;
+    left:30.625rem;
     width:37.125rem;
     text-align: justify;
 } 
@@ -351,8 +355,16 @@ body {
 
 /* Productos */
 
+#productos{
+    position: relative;
+    top:125px;
+}
+
 #product-section{
     padding:0;
+    height:600px;
+    position: relative;
+    bottom: -150px ;
 }
 
 
@@ -402,6 +414,7 @@ body {
     width: 34.375rem;
     height: 34.375rem;
 
+
 }
 
 .carousel-inner, .d-block, .w-100{
@@ -416,11 +429,22 @@ body {
 
 /* Aliados */
 
+#container-aliados{
+    position: relative;
+    height: 400px !important;
+    position: relative;
+    top: 8.625rem;
+    padding: 0;
+}
+
+
+
 #titulo-aliados{
     color:var(--blue-main)!important;
     font-size: 1.75rem !important;
     position:relative;
     top:1.5625rem;
+    height: 50px;
 }
 
 #p-aliados{
@@ -474,6 +498,8 @@ body {
     color:var(--white)!important;
     width:100%;
     padding: 0;
+    position:relative;
+    bottom:-3.625rem;
 
 }
 
