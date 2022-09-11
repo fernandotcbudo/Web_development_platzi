@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="eGH0Cpz3Enk1"
+   viewBox="0 0 45.973 45.973"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   version="1.1"
+   sodipodi:docname="gear-svgrepo-other.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs101">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4625">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop4621" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0;"
+         offset="1"
+         id="stop4623" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4617">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop4613" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop4615" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient4627"
+       x1="0"
+       y1="22.986"
+       x2="45.972001"
+       y2="22.986"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4617"
+       id="linearGradient875"
+       x1="0"
+       y1="22.986"
+       x2="45.972001"
+       y2="22.986"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="731"
+     id="namedview99"
+     showgrid="false"
+     inkscape:zoom="11.313708"
+     inkscape:cx="9.7332203"
+     inkscape:cy="23.303502"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="eGH0Cpz3Enk1" />
+  <g
+     transform="translate(-.777744 2.21142)"
+     id="g32">
+    <path
+       d="M29.050832,24.776202l-.54584-.485191-.363893-.697463-.195519-1.727206-.01675-.456155-1.728494-1.576872-1.031031-1.849792-.424543-1.819467-.03032-2.456282.758111-2.971797L26.74618,9.007483L28.292728,7.76418l2.031739-.758111l1.303951-.060649l1.212979.242596l1.849792.909733l1.728494,1.910441.727787,1.42525.424543,1.940765.06065.818761v1.485898l-.27292,1.485899-.606489,1.607196-.333569.697463-1.819468,1.940765-.216309.455802.123366,1.207098-.786466,1.430195-.410335.22393-2.045946.230937Z"
+       fill="#ffe700"
+       stroke-width="0.245669"
+       id="path2" />
+    <g
+       transform="matrix(.031054 0 0 0.028683 17.9706 22.0163)"
+       id="g18">
+      <g
+         transform="matrix(2.37599 0 0 3.08351 50.121-652.376)"
+         id="g16">
+        <g
+           id="g14">
+          <g
+             id="g12">
+            <g
+               id="g10">
+              <path
+                 d="M157.727,37.75c-50.524,0-91.632,41.1-91.632,91.624c0,33.772,18.332,64.42,48.004,80.5l-1.7,14.024c0,8.176,4.104,15.4,10.352,19.748-4.396,2.548-7.416,7.376-7.416,12.972c0,5.756,3.188,10.704,7.796,13.184-2.424,2.568-3.94,6.004-3.94,9.804c0,7.896,6.428,14.328,14.328,14.328h.472c-.004.044-.024.08-.024.124c0,9.856,11.084,17.576,25.224,17.576c5.54,0,10.784-1.204,15.16-3.472c1.532-.788,2.128-2.672,1.332-4.204-.792-1.524-2.664-2.136-4.204-1.332-3.444,1.78-7.808,2.768-12.288,2.768-10.292,0-18.984-5.192-18.984-11.34c0-.044-.024-.08-.028-.124h41.748c7.896,0,14.328-6.428,14.328-14.328c0-7.008-5.068-12.832-11.724-14.064-.38-.168-.796-.264-1.24-.264h-1.36-48.408-3.86c-4.46,0-8.088-3.884-8.088-8.66c0-4.78,3.628-8.664,8.088-8.664h6.788h42.54h6.792c4.46,0,8.088,3.884,8.088,8.664c0,2.508,0,2.508-1.748,4.924-1.008,1.392-.696,3.344.7,4.352c1.388,1.004,3.34.696,4.352-.7c2.716-3.748,2.936-4.392,2.936-8.58c0-8.216-5.42495-13.87173-13.30051-14.38971L178.991,241.706h-42.54c-9.824,0-17.816-7.996-17.844-17.44l1.936-15.78-1.672-3.152c-28.708-14.7-46.536-43.808-46.536-75.96c0-47.084,38.304-85.388,85.392-85.388c47.084,0,85.384,38.304,85.384,85.388c0,32.148-17.832,61.26-46.532,75.972l-1.672,3.156l1.908,15.396c0,4.784-6.56851,14.93829-10.00451,18.32229-2.46098,1.03657-2.05498.5143,1.97305,2.52919c4.48878,2.24538,3.36028,1.84106,4.17329-.2241c4.64-4.572,10.10217-14.16338,10.07417-21.00738l-1.672-13.648c29.66-16.084,47.992-46.728,47.992-80.5c0-50.516-41.104-91.62-91.624-91.62ZM133.523,271.521h48.408c4.46,0,8.088,3.628,8.088,8.088s-3.628,8.088-8.088,8.088h-48.408c-4.46,0-8.088-3.628-8.088-8.088c0-4.459,3.628-8.088,8.088-8.088Z"
+                 fill="#ffe400"
+                 id="path4" />
+              <path
+                 d="M195.627,177.769c1.18-.288,1.904-1.476,1.616-2.66-.288-1.18-1.496-1.904-2.656-1.616-4.808,1.18-10.2-.456-14.416-4.352-.004-.008-.012-.016-.02-.02c3.548-4.672,5.24-10.444,4.664-15.988-.312-2.972-1.32-5.004-3.08-6.212-1.66-1.136-3.628-1.312-5.54-.496-2.82,1.204-5.268,4.56-5.824,7.976-.82,5.024.608,10.28,3.864,14.684-2.536,2.276-5.544,3.64-8.672,3.904-3.52.3-7.184-1.08-10.092-3.66c2.324-3.8,3.736-7.808,4.588-11.14c1.012-3.944.5-6.868-1.512-8.692-1.448-1.308-3.332-1.736-5.296-1.216-2.82.752-5.468,3.396-6.44,6.42-1.6,4.94-.484,10.388,3.044,15.008-1.312,1.652-2.856,3.18-4.684,4.464-.248.176-.508.344-.76.504-1.952-5.3-4.5-10.376-7.78-15.156-3.868-5.624-7.572-6.332-10.004-5.912-1.548.252-3.036,1.04-4.436,2.328-2.804,2.596-4.272,6.516-4.012,10.756.288,4.788,2.636,9.22,6.276,11.856c4.78,3.456,11.296,4.172,17.324,2.192c4.944,16.716,4.384,35.608,2.752,54.052-.108,1.212.788,2.28,2,2.384.064.004.128.008.196.008c1.124,0,2.084-.864,2.188-2.008c1.692-19.112,2.244-38.728-3.072-56.232.636-.36,1.256-.752,1.86-1.176c2.02-1.416,3.744-3.072,5.212-4.848c3.752,3.172,8.484,4.82,13.02,4.448c4.1-.348,7.992-2.1,11.24-5.016.004.004.004.004.008.008c5.296,4.908,12.188,6.924,18.444,5.408Zm-68.596-2.784c-2.548-1.844-4.26-5.12-4.464-8.556-.18-2.956.748-5.532,2.612-7.26.74-.684,1.488-1.104,2.16-1.22.144-.02.28-.032.416-.032c2.1,0,4.16,2.524,5.244,4.1c3.132,4.556,5.552,9.428,7.396,14.532-4.7,1.521-9.78,1.024-13.364-1.564Zm25.432-9.235c-1.928-3.136-2.468-6.588-1.46-9.696.508-1.58,2.028-3.16,3.388-3.52.18-.048.336-.072.468-.072.352,0,.568.14.732.292.688.624.76,2.168.208,4.34-.668,2.607-1.712,5.679-3.336,8.656Zm22.252-10.641c.312-1.904,1.784-4.028,3.212-4.64.256-.112.472-.156.652-.156.28,0,.492.108.672.232.612.42,1.02,1.472,1.192,3.044.42,4.064-.772,8.456-3.224,12.072-2.164-3.268-3.08-7.007-2.504-10.552Z"
+                 fill="#fff"
+                 id="path6" />
+              <path
+                 d="M179.407,178.958c-8.268,18.016-10.476,37.244-6.772,56.708.528,2.78,4.772,1.604,4.244-1.168-3.464-18.196-1.408-36.46,6.328-53.316c1.172-2.561-2.62-4.801-3.8-2.224Z"
+                 fill="#fff"
+                 id="path8" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       width="6.9474101"
+       height="2.2989395"
+       rx="1.073933"
+       ry="1.1514028"
+       id="rect20"
+       x="27.7262"
+       y="24.78442"
+       style="fill:#304686;stroke-width:0.10053711;stroke-linejoin:round;fill-opacity:1" />
+    <rect
+       width="5.91817"
+       height="1.97272"
+       rx="0.71561337"
+       ry="0.914832"
+       transform="translate(28.2689,27.1667)"
+       id="rect22"
+       x="0"
+       y="0"
+       style="fill:#304688;stroke-width:0.085957;stroke-linejoin:round;fill-opacity:1" />
+    <path
+       d="M29.413275,29.301034c.078689,1.163549.873516,2.058898,1.82786,2.05903.953702-.001195,1.747553-.896263,1.826189-2.05903Z"
+       fill="#304695"
+       stroke-width="0.111323"
+       stroke-linejoin="round"
+       id="path24"
+       style="fill:#304688;fill-opacity:1" />
+    <rect
+       width="6.9695072"
+       height="1.715745"
+       rx="0.5009979"
+       ry="1.1934911"
+       id="rect26"
+       style="fill:#3046ff;fill-opacity:1;stroke-width:0.08699209;stroke-linejoin:round"
+       x="27.7262"
+       y="25.539499" />
+    <rect
+       width="5.91817"
+       height="1.76262"
+       rx="0.914832"
+       ry="1.044454"
+       id="rect28"
+       style="fill:#3046fe;fill-opacity:1;stroke-width:0.08125077;stroke-linejoin:round"
+       x="28.2689"
+       y="27.595501" />
+    <path
+       d="m 29.3039,29.522735 c 0.0797,1.040501 0.884722,1.841164 1.851308,1.841282 0.965937,-0.0011 1.832471,-0.793667 1.873054,-1.794407 z"
+       id="path30"
+       style="fill:#3046fe;fill-opacity:1;stroke-width:0.10594556;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(.914896 0 0 0.909677 11.5515 0.752177)"
+     id="g56">
+    <ellipse
+       rx="5.96105"
+       ry="6.64722"
+       transform="translate(15.5673 33.6649)"
+       fill="#bc2640"
+       stroke-width="1.07048"
+       id="ellipse34" />
+    <g
+       transform="matrix(-.024344-.001148-.001504 0.028624 21.4918 27.3735)"
+       id="g54">
+      <circle
+         r="229.878"
+         transform="translate(250.776 229.878)"
+         fill="#ee2640"
+         fill-opacity="0.992157"
+         id="circle36" />
+      <circle
+         r="180.767"
+         transform="translate(250.776 229.878)"
+         fill="#fff"
+         id="circle38" />
+      <circle
+         r="132.702"
+         transform="translate(250.776 229.878)"
+         fill="#ee2640"
+         id="circle40" />
+      <circle
+         r="84.637"
+         transform="translate(250.776 229.878)"
+         fill="#fff"
+         id="circle42" />
+      <circle
+         r="36.571"
+         transform="translate(250.776 229.878)"
+         fill="#ee2640"
+         id="circle44" />
+      <path
+         d="M424.229,85.682L257.045,235.102h-1.045l-10.449-10.449v-1.045L412.735,73.143h1.045l9.404,10.449c1.045,1.045,1.045,1.045,1.045,2.09Z"
+         fill="#40596b"
+         id="path46" />
+      <g
+         id="g52">
+        <polygon
+           points="392.882,52.245 401.241,96.131 340.637,150.465 332.278,106.58"
+           fill="#334a5e"
+           id="polygon48" />
+        <polygon
+           points="340.637,150.465 383.478,163.004 444.082,109.714 401.241,96.131"
+           fill="#334a5e"
+           id="polygon50" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="eGH0Cpz3Enk30"
+     transform="matrix(1.132352 0 0 0.979093 3.274741 10.587007)">
+    <g
+       transform="matrix(-.999867 0.016316-.016316-.999867 19.415535 39.030052)"
+       id="g68">
+      <g
+         transform="matrix(.254642-.029972 0.033342 0.290228 3.13 13.612)"
+         id="g62">
+        <g
+           id="g60">
+          <path
+             d="M43.454,18.443h-2.437c-.453-1.766-1.16-3.42-2.082-4.933l1.752-1.756c.473-.473.733-1.104.733-1.774c0-.669-.262-1.301-.733-1.773L37.767,5.29c-.947-.948-2.602-.947-3.545-.001L32.396,7.104c-1.496-.872-3.1-1.544-4.867-1.976v-2.608c0-1.383-1.105-2.52-2.488-2.52h-4.128c-1.383,0-2.471,1.137-2.471,2.52v2.607c-1.766.431-3.38,1.104-4.878,1.977L11.739,5.289c-.946-.948-2.602-.947-3.551-.001L5.27,8.205c-.468.467-.735,1.113-.735,1.773c0,.669.259,1.299.733,1.772L7.02,13.51c-.921,1.513-1.629,3.167-2.081,4.933h-2.438C1.117,18.443,0,19.555,0,20.935v4.125c0,1.384,1.117,2.471,2.501,2.471h2.438c.452,1.766,1.159,3.43,2.079,4.943L5.266,34.237c-.474.473-.734,1.106-.734,1.776s.261,1.303.734,1.776l2.92,2.919c.474.473,1.103.733,1.772.733s1.299-.261,1.773-.733l1.833-1.816c1.498.873,3.112,1.545,4.878,1.978v2.604c0,1.383,1.088,2.498,2.471,2.498h4.128c1.383,0,2.488-1.115,2.488-2.498v-2.605c1.767-.432,3.371-1.104,4.869-1.977l1.817,1.812c.474.475,1.104.735,1.775.735.67,0,1.301-.261,1.774-.733l2.92-2.917c.473-.472.732-1.103.734-1.772c0-.67-.262-1.299-.734-1.773l-1.75-1.77c.92-1.514,1.627-3.179,2.08-4.943h2.438c1.383,0,2.52-1.087,2.52-2.471v-4.125c.001-1.38-1.135-2.492-2.518-2.492ZM22.976,30.85c-4.378,0-7.928-3.517-7.928-7.852c0-4.338,3.55-7.85,7.928-7.85c4.379,0,7.931,3.512,7.931,7.85-.001,4.336-3.552,7.852-7.931,7.852Z"
+             fill="#30465f"
+             id="path58"
+             style="fill:#666666" />
+        </g>
+      </g>
+      <g
+         transform="matrix(.255668-.027826 0.030506 0.285884 2.72789 13.7733)"
+         id="g66">
+        <path
+           d="M43.454,18.443h-2.437c-.453-1.766-1.16-3.42-2.082-4.933l1.752-1.756c.473-.473.733-1.104.733-1.774c0-.669-.262-1.301-.733-1.773L37.767,5.29c-.947-.948-2.602-.947-3.545-.001L32.396,7.104c-1.496-.872-3.1-1.544-4.867-1.976v-2.608c0-1.383-1.105-2.52-2.488-2.52h-4.128c-1.383,0-2.471,1.137-2.471,2.52v2.607c-1.766.431-3.38,1.104-4.878,1.977L11.739,5.289c-.946-.948-2.602-.947-3.551-.001L5.27,8.205c-.468.467-.735,1.113-.735,1.773c0,.669.259,1.299.733,1.772L7.02,13.51c-.921,1.513-1.629,3.167-2.081,4.933h-2.438C1.117,18.443,0,19.555,0,20.935v4.125c0,1.384,1.117,2.471,2.501,2.471h2.438c.452,1.766,1.159,3.43,2.079,4.943L5.266,34.237c-.474.473-.734,1.106-.734,1.776s.261,1.303.734,1.776l2.92,2.919c.474.473,1.103.733,1.772.733s1.299-.261,1.773-.733l1.833-1.816c1.498.873,3.112,1.545,4.878,1.978v2.604c0,1.383,1.088,2.498,2.471,2.498h4.128c1.383,0,2.488-1.115,2.488-2.498v-2.605c1.767-.432,3.371-1.104,4.869-1.977l1.817,1.812c.474.475,1.104.735,1.775.735.67,0,1.301-.261,1.774-.733l2.92-2.917c.473-.472.732-1.103.734-1.772c0-.67-.262-1.299-.734-1.773l-1.75-1.77c.92-1.514,1.627-3.179,2.08-4.943h2.438c1.383,0,2.52-1.087,2.52-2.471v-4.125c.001-1.38-1.135-2.492-2.518-2.492ZM22.976,30.85c-4.378,0-7.928-3.517-7.928-7.852c0-4.338,3.55-7.85,7.928-7.85c4.379,0,7.931,3.512,7.931,7.85-.001,4.336-3.552,7.852-7.931,7.852Z"
+           id="path64"
+           style="fill:url(#linearGradient875);fill-opacity:1"
+           fill="#304695" />
+      </g>
+    </g>
+  </g>
+  <path
+     d="M8.319741,22.300335l6.347019-8.662823l2.315804,4.80315L28.218503,5.14623"
+     fill="none"
+     stroke="#ee2640"
+     id="path71" />
+  <ellipse
+     rx="1.24367"
+     ry="1.28656"
+     transform="translate(8.70571 21.5284)"
+     fill="#ffe700"
+     stroke-width="0.172529"
+     stroke-linejoin="round"
+     id="ellipse73" />
+  <ellipse
+     rx="1.24367"
+     ry="1.28656"
+     transform="translate(14.3237 13.8091)"
+     fill="#ffe700"
+     stroke-width="0.172529"
+     stroke-linejoin="round"
+     id="ellipse75" />
+  <ellipse
+     rx="1.24367"
+     ry="1.28656"
+     transform="translate(16.811 18.0976)"
+     fill="#ffe700"
+     stroke-width="0.172529"
+     stroke-linejoin="round"
+     id="ellipse77" />
+  <ellipse
+     rx="1.24367"
+     ry="1.28656"
+     transform="translate(28.047 5.31777)"
+     fill="#ffe700"
+     stroke-width="0.172529"
+     stroke-linejoin="round"
+     id="ellipse79" />
+  <g
+     transform="matrix(.64058 0 0 0.606123 14.331275 17.299932)"
+     id="g94">
+    <g
+       id="eGH0Cpz3Enk43"
+       transform="matrix(-0.56293094,0.88917633,-0.88402605,-0.56621054,22.034523,4.4083284)">
+      <g
+         transform="matrix(0.158863,-0.018473,0.020801,0.178882,5.38813,4.3529)"
+         id="g85">
+        <g
+           id="g83">
+          <path
+             d="m 43.454,18.443 h -2.437 c -0.453,-1.766 -1.16,-3.42 -2.082,-4.933 l 1.752,-1.756 C 41.16,11.281 41.42,10.65 41.42,9.98 41.42,9.311 41.158,8.679 40.687,8.207 L 37.767,5.29 C 36.82,4.342 35.165,4.343 34.222,5.289 L 32.396,7.104 C 30.9,6.232 29.296,5.56 27.529,5.128 V 2.52 C 27.529,1.137 26.424,0 25.041,0 H 20.913 C 19.53,0 18.442,1.137 18.442,2.52 v 2.607 c -1.766,0.431 -3.38,1.104 -4.878,1.977 L 11.739,5.289 C 10.793,4.341 9.137,4.342 8.188,5.288 L 5.27,8.205 C 4.802,8.672 4.535,9.318 4.535,9.978 c 0,0.669 0.259,1.299 0.733,1.772 L 7.02,13.51 C 6.099,15.023 5.391,16.677 4.939,18.443 H 2.501 C 1.117,18.443 0,19.555 0,20.935 v 4.125 c 0,1.384 1.117,2.471 2.501,2.471 h 2.438 c 0.452,1.766 1.159,3.43 2.079,4.943 l -1.752,1.763 c -0.474,0.473 -0.734,1.106 -0.734,1.776 0,0.67 0.261,1.303 0.734,1.776 l 2.92,2.919 c 0.474,0.473 1.103,0.733 1.772,0.733 0.669,0 1.299,-0.261 1.773,-0.733 l 1.833,-1.816 c 1.498,0.873 3.112,1.545 4.878,1.978 v 2.604 c 0,1.383 1.088,2.498 2.471,2.498 h 4.128 c 1.383,0 2.488,-1.115 2.488,-2.498 v -2.605 c 1.767,-0.432 3.371,-1.104 4.869,-1.977 l 1.817,1.812 c 0.474,0.475 1.104,0.735 1.775,0.735 0.67,0 1.301,-0.261 1.774,-0.733 l 2.92,-2.917 c 0.473,-0.472 0.732,-1.103 0.734,-1.772 0,-0.67 -0.262,-1.299 -0.734,-1.773 l -1.75,-1.77 c 0.92,-1.514 1.627,-3.179 2.08,-4.943 h 2.438 c 1.383,0 2.52,-1.087 2.52,-2.471 v -4.125 c 10e-4,-1.38 -1.135,-2.492 -2.518,-2.492 z M 22.976,30.85 c -4.378,0 -7.928,-3.517 -7.928,-7.852 0,-4.338 3.55,-7.85 7.928,-7.85 4.379,0 7.931,3.512 7.931,7.85 -0.001,4.336 -3.552,7.852 -7.931,7.852 z"
+             id="path81"
+             style="fill:#808080"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g91">
+        <g
+           transform="matrix(0.15982,-0.013967,0.015429,0.176548,5.2128,4.1383)"
+           id="g89">
+          <path
+             d="m 43.454,18.443 h -2.437 c -0.453,-1.766 -1.16,-3.42 -2.082,-4.933 l 1.752,-1.756 C 41.16,11.281 41.42,10.65 41.42,9.98 41.42,9.311 41.158,8.679 40.687,8.207 L 37.767,5.29 C 36.82,4.342 35.165,4.343 34.222,5.289 L 32.396,7.104 C 30.9,6.232 29.296,5.56 27.529,5.128 V 2.52 C 27.529,1.137 26.424,0 25.041,0 H 20.913 C 19.53,0 18.442,1.137 18.442,2.52 v 2.607 c -1.766,0.431 -3.38,1.104 -4.878,1.977 L 11.739,5.289 C 10.793,4.341 9.137,4.342 8.188,5.288 L 5.27,8.205 C 4.802,8.672 4.535,9.318 4.535,9.978 c 0,0.669 0.259,1.299 0.733,1.772 L 7.02,13.51 C 6.099,15.023 5.391,16.677 4.939,18.443 H 2.501 C 1.117,18.443 0,19.555 0,20.935 v 4.125 c 0,1.384 1.117,2.471 2.501,2.471 h 2.438 c 0.452,1.766 1.159,3.43 2.079,4.943 l -1.752,1.763 c -0.474,0.473 -0.734,1.106 -0.734,1.776 0,0.67 0.261,1.303 0.734,1.776 l 2.92,2.919 c 0.474,0.473 1.103,0.733 1.772,0.733 0.669,0 1.299,-0.261 1.773,-0.733 l 1.833,-1.816 c 1.498,0.873 3.112,1.545 4.878,1.978 v 2.604 c 0,1.383 1.088,2.498 2.471,2.498 h 4.128 c 1.383,0 2.488,-1.115 2.488,-2.498 v -2.605 c 1.767,-0.432 3.371,-1.104 4.869,-1.977 l 1.817,1.812 c 0.474,0.475 1.104,0.735 1.775,0.735 0.67,0 1.301,-0.261 1.774,-0.733 l 2.92,-2.917 c 0.473,-0.472 0.732,-1.103 0.734,-1.772 0,-0.67 -0.262,-1.299 -0.734,-1.773 l -1.75,-1.77 c 0.92,-1.514 1.627,-3.179 2.08,-4.943 h 2.438 c 1.383,0 2.52,-1.087 2.52,-2.471 v -4.125 c 10e-4,-1.38 -1.135,-2.492 -2.518,-2.492 z M 22.976,30.85 c -4.378,0 -7.928,-3.517 -7.928,-7.852 0,-4.338 3.55,-7.85 7.928,-7.85 4.379,0 7.931,3.512 7.931,7.85 -0.001,4.336 -3.552,7.852 -7.931,7.852 z"
+             id="path87"
+             style="fill:url(#linearGradient4627);fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <script
+     id="script96"><![CDATA[!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):((t="undefined"!=typeof globalThis?globalThis:t||self).__SVGATOR_PLAYER__=t.__SVGATOR_PLAYER__||{},t.__SVGATOR_PLAYER__["5c7f360c"]=n())}(this,(function(){"use strict";function t(t,n){var r=Object.keys(t);if(Object.getOwnPropertySymbols){var e=Object.getOwnPropertySymbols(t);n&&(e=e.filter((function(n){return Object.getOwnPropertyDescriptor(t,n).enumerable}))),r.push.apply(r,e)}return r}function n(n){for(var r=1;r<arguments.length;r++){var e=null!=arguments[r]?arguments[r]:{};r%2?t(Object(e),!0).forEach((function(t){u(n,t,e[t])})):Object.getOwnPropertyDescriptors?Object.defineProperties(n,Object.getOwnPropertyDescriptors(e)):t(Object(e)).forEach((function(t){Object.defineProperty(n,t,Object.getOwnPropertyDescriptor(e,t))}))}return n}function r(t){return(r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}function e(t,n){if(!(t instanceof n))throw new TypeError("Cannot call a class as a function")}function i(t,n){for(var r=0;r<n.length;r++){var e=n[r];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function o(t,n,r){return n&&i(t.prototype,n),r&&i(t,r),t}function u(t,n,r){return n in t?Object.defineProperty(t,n,{value:r,enumerable:!0,configurable:!0,writable:!0}):t[n]=r,t}function a(t){return(a=Object.setPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__||Object.getPrototypeOf(t)})(t)}function l(t,n){return(l=Object.setPrototypeOf||function(t,n){return t.__proto__=n,t})(t,n)}function f(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(t){return!1}}function s(t,n,r){return(s=f()?Reflect.construct:function(t,n,r){var e=[null];e.push.apply(e,n);var i=new(Function.bind.apply(t,e));return r&&l(i,r.prototype),i}).apply(null,arguments)}function c(t,n){if(n&&("object"==typeof n||"function"==typeof n))return n;if(void 0!==n)throw new TypeError("Derived constructors may only return object or undefined");return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(t)}function h(t,n,r){return(h="undefined"!=typeof Reflect&&Reflect.get?Reflect.get:function(t,n,r){var e=function(t,n){for(;!Object.prototype.hasOwnProperty.call(t,n)&&null!==(t=a(t)););return t}(t,n);if(e){var i=Object.getOwnPropertyDescriptor(e,n);return i.get?i.get.call(r):i.value}})(t,n,r||t)}function v(t){return function(t){if(Array.isArray(t))return y(t)}(t)||function(t){if("undefined"!=typeof Symbol&&null!=t[Symbol.iterator]||null!=t["@@iterator"])return Array.from(t)}(t)||function(t,n){if(!t)return;if("string"==typeof t)return y(t,n);var r=Object.prototype.toString.call(t).slice(8,-1);"Object"===r&&t.constructor&&(r=t.constructor.name);if("Map"===r||"Set"===r)return Array.from(t);if("Arguments"===r||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r))return y(t,n)}(t)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function y(t,n){(null==n||n>t.length)&&(n=t.length);for(var r=0,e=new Array(n);r<n;r++)e[r]=t[r];return e}Number.isInteger||(Number.isInteger=function(t){return"number"==typeof t&&isFinite(t)&&Math.floor(t)===t}),Number.EPSILON||(Number.EPSILON=2220446049250313e-31);var g=p(Math.pow(10,-6));function p(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:6;if(Number.isInteger(t))return t;var r=Math.pow(10,n);return Math.round((+t+Number.EPSILON)*r)/r}function d(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:g;return Math.abs(t-n)<r}var m=Math.PI/180;function b(t){return t}function w(t,n,r){var e=1-r;return 3*r*e*(t*e+n*r)+r*r*r}function x(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1;return t<0||t>1||r<0||r>1?null:d(t,n)&&d(r,e)?b:function(i){if(i<=0)return t>0?i*n/t:0===n&&r>0?i*e/r:0;if(i>=1)return r<1?1+(i-1)*(e-1)/(r-1):1===r&&t<1?1+(i-1)*(n-1)/(t-1):1;for(var o,u=0,a=1;u<a;){var l=w(t,r,o=(u+a)/2);if(d(i,l))break;l<i?u=o:a=o}return w(n,e,o)}}function A(){return 1}function k(t){return 1===t?1:0}function _(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(1===t){if(0===n)return k;if(1===n)return A}var r=1/t;return function(t){return t>=1?1:(t+=n*r)-t%r}}var S=Math.sin,O=Math.cos,j=Math.acos,M=Math.asin,P=Math.tan,E=Math.atan2,I=Math.PI/180,R=180/Math.PI,F=Math.sqrt,N=function(){function t(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,o=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,u=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,a=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0;e(this,t),this.m=[n,r,i,o,u,a],this.i=null,this.w=null,this.s=null}return o(t,[{key:"determinant",get:function(){var t=this.m;return t[0]*t[3]-t[1]*t[2]}},{key:"isIdentity",get:function(){if(null===this.i){var t=this.m;this.i=1===t[0]&&0===t[1]&&0===t[2]&&1===t[3]&&0===t[4]&&0===t[5]}return this.i}},{key:"point",value:function(t,n){var r=this.m;return{x:r[0]*t+r[2]*n+r[4],y:r[1]*t+r[3]*n+r[5]}}},{key:"translateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(!t&&!n)return this;var r=this.m;return r[4]+=r[0]*t+r[2]*n,r[5]+=r[1]*t+r[3]*n,this.w=this.s=this.i=null,this}},{key:"rotateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0;if(t%=360){var n=S(t*=I),r=O(t),e=this.m,i=e[0],o=e[1];e[0]=i*r+e[2]*n,e[1]=o*r+e[3]*n,e[2]=e[2]*r-i*n,e[3]=e[3]*r-o*n,this.w=this.s=this.i=null}return this}},{key:"scaleSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1;if(1!==t||1!==n){var r=this.m;r[0]*=t,r[1]*=t,r[2]*=n,r[3]*=n,this.w=this.s=this.i=null}return this}},{key:"skewSelf",value:function(t,n){if(n%=360,(t%=360)||n){var r=this.m,e=r[0],i=r[1],o=r[2],u=r[3];t&&(t=P(t*I),r[2]+=e*t,r[3]+=i*t),n&&(n=P(n*I),r[0]+=o*n,r[1]+=u*n),this.w=this.s=this.i=null}return this}},{key:"resetSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0,u=this.m;return u[0]=t,u[1]=n,u[2]=r,u[3]=e,u[4]=i,u[5]=o,this.w=this.s=this.i=null,this}},{key:"recomposeSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:null,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:null;return this.isIdentity||this.resetSelf(),t&&(t.x||t.y)&&this.translateSelf(t.x,t.y),n&&this.rotateSelf(n),r&&(r.x&&this.skewSelf(r.x,0),r.y&&this.skewSelf(0,r.y)),!e||1===e.x&&1===e.y||this.scaleSelf(e.x,e.y),i&&(i.x||i.y)&&this.translateSelf(i.x,i.y),this}},{key:"decompose",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=this.m,e=r[0]*r[0]+r[1]*r[1],i=[[r[0],r[1]],[r[2],r[3]]],o=F(e);if(0===o)return{origin:{x:p(r[4]),y:p(r[5])},translate:{x:p(t),y:p(n)},scale:{x:0,y:0},skew:{x:0,y:0},rotate:0};i[0][0]/=o,i[0][1]/=o;var u=r[0]*r[3]-r[1]*r[2]<0;u&&(o=-o);var a=i[0][0]*i[1][0]+i[0][1]*i[1][1];i[1][0]-=i[0][0]*a,i[1][1]-=i[0][1]*a;var l=F(i[1][0]*i[1][0]+i[1][1]*i[1][1]);if(0===l)return{origin:{x:p(r[4]),y:p(r[5])},translate:{x:p(t),y:p(n)},scale:{x:p(o),y:0},skew:{x:0,y:0},rotate:0};i[1][0]/=l,i[1][1]/=l,a/=l;var f=0;return i[1][1]<0?(f=j(i[1][1])*R,i[0][1]<0&&(f=360-f)):f=M(i[0][1])*R,u&&(f=-f),a=E(a,F(i[0][0]*i[0][0]+i[0][1]*i[0][1]))*R,u&&(a=-a),{origin:{x:p(r[4]),y:p(r[5])},translate:{x:p(t),y:p(n)},scale:{x:p(o),y:p(l)},skew:{x:p(a),y:0},rotate:p(f)}}},{key:"clone",value:function(){var t=this.m;return new this.constructor(t[0],t[1],t[2],t[3],t[4],t[5])}},{key:"toString",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:" ";if(null===this.s){var n=this.m.map((function(t){return p(t)}));1===n[0]&&0===n[1]&&0===n[2]&&1===n[3]?this.s="translate("+n[4]+t+n[5]+")":this.s="matrix("+n.join(t)+")"}return this.s}}],[{key:"create",value:function(t){return t?Array.isArray(t)?s(this,v(t)):t instanceof this?t.clone():(new this).recomposeSelf(t.origin,t.rotate,t.skew,t.scale,t.translate):new this}}]),t}();function T(t,n,r){return t>=.5?r:n}function q(t,n,r){return 0===t||n===r?n:t*(r-n)+n}function B(t,n,r){var e=q(t,n,r);return e<=0?0:e}function L(t,n,r){var e=q(t,n,r);return e<=0?0:e>=1?1:e}function C(t,n,r){return 0===t?n:1===t?r:{x:q(t,n.x,r.x),y:q(t,n.y,r.y)}}function D(t,n,r){var e=function(t,n,r){return Math.round(q(t,n,r))}(t,n,r);return e<=0?0:e>=255?255:e}function z(t,n,r){return 0===t?n:1===t?r:{r:D(t,n.r,r.r),g:D(t,n.g,r.g),b:D(t,n.b,r.b),a:q(t,null==n.a?1:n.a,null==r.a?1:r.a)}}function V(t,n){for(var r=[],e=0;e<t;e++)r.push(n);return r}function G(t,n){if(--n<=0)return t;var r=(t=Object.assign([],t)).length;do{for(var e=0;e<r;e++)t.push(t[e])}while(--n>0);return t}var Y,$=function(){function t(n){e(this,t),this.list=n,this.length=n.length}return o(t,[{key:"setAttribute",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].setAttribute(t,n)}},{key:"removeAttribute",value:function(t){for(var n=this.list,r=0;r<this.length;r++)n[r].removeAttribute(t)}},{key:"style",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].style[t]=n}}]),t}(),U=/-./g,Q=function(t,n){return n.toUpperCase()};function H(t){return"function"==typeof t?t:T}function J(t){return t?"function"==typeof t?t:Array.isArray(t)?function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:b;if(!Array.isArray(t))return n;switch(t.length){case 1:return _(t[0])||n;case 2:return _(t[0],t[1])||n;case 4:return x(t[0],t[1],t[2],t[3])||n}return n}(t,null):function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:b;switch(t){case"linear":return b;case"steps":return _(n.steps||1,n.jump||0)||r;case"bezier":case"cubic-bezier":return x(n.x1||0,n.y1||0,n.x2||0,n.y2||0)||r}return r}(t.type,t.value,null):null}function Z(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i=n.length-1;if(t<=n[0].t)return e?[0,0,n[0].v]:n[0].v;if(t>=n[i].t)return e?[i,1,n[i].v]:n[i].v;var o,u=n[0],a=null;for(o=1;o<=i;o++){if(!(t>n[o].t)){a=n[o];break}u=n[o]}return null==a?e?[i,1,n[i].v]:n[i].v:u.t===a.t?e?[o,1,a.v]:a.v:(t=(t-u.t)/(a.t-u.t),u.e&&(t=u.e(t)),e?[o,t,r(t,u.v,a.v)]:r(t,u.v,a.v))}function K(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null;return t&&t.length?"function"!=typeof n?null:("function"!=typeof r&&(r=null),function(e){var i=Z(e,t,n);return null!=i&&r&&(i=r(i)),i}):null}function W(t,n){return t.t-n.t}function X(t,n,e,i,o){var u,a="@"===e[0],l="#"===e[0],f=Y[e],s=T;switch(a?(u=e.substr(1),e=u.replace(U,Q)):l&&(e=e.substr(1)),r(f)){case"function":if(s=f(i,o,Z,J,e,a,n,t),l)return s;break;case"string":s=K(i,H(f));break;case"object":if((s=K(i,H(f.i),f.f))&&"function"==typeof f.u)return f.u(n,s,e,a,t)}return s?function(t,n,r){if(arguments.length>3&&void 0!==arguments[3]&&arguments[3])return t instanceof $?function(e){return t.style(n,r(e))}:function(e){return t.style[n]=r(e)};if(Array.isArray(n)){var e=n.length;return function(i){var o=r(i);if(null==o)for(var u=0;u<e;u++)t[u].removeAttribute(n);else for(var a=0;a<e;a++)t[a].setAttribute(n,o)}}return function(e){var i=r(e);null==i?t.removeAttribute(n):t.setAttribute(n,i)}}(n,e,s,a):null}function tt(t,n,e,i){if(!i||"object"!==r(i))return null;var o=null,u=null;return Array.isArray(i)?u=function(t){if(!t||!t.length)return null;for(var n=0;n<t.length;n++)t[n].e&&(t[n].e=J(t[n].e));return t.sort(W)}(i):(u=i.keys,o=i.data||null),u?X(t,n,e,u,o):null}function nt(t,n,r){if(!r)return null;var e=[];for(var i in r)if(r.hasOwnProperty(i)){var o=tt(t,n,i,r[i]);o&&e.push(o)}return e.length?e:null}function rt(t,n){if(!n.duration||n.duration<0)return null;var r=function(t,n){if(!n)return null;var r=[];if(Array.isArray(n))for(var e=n.length,i=0;i<e;i++){var o=n[i];if(2===o.length){var u=null;if("string"==typeof o[0])u=t.getElementById(o[0]);else if(Array.isArray(o[0])){u=[];for(var a=0;a<o[0].length;a++)if("string"==typeof o[0][a]){var l=t.getElementById(o[0][a]);l&&u.push(l)}u=u.length?1===u.length?u[0]:new $(u):null}if(u){var f=nt(t,u,o[1]);f&&(r=r.concat(f))}}}else for(var s in n)if(n.hasOwnProperty(s)){var c=t.getElementById(s);if(c){var h=nt(t,c,n[s]);h&&(r=r.concat(h))}}return r.length?r:null}(t,n.elements);return r?function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1/0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:1,u=t.length,a=e>0?n:0;i&&r%2==0&&(a=n-a);var l=null;return function(f,s){var c=f%n,h=1+(f-c)/n;s*=e,i&&h%2==0&&(s=-s);var v=!1;if(h>r)c=a,v=!0,-1===o&&(c=e>0?0:n);else if(s<0&&(c=n-c),c===l)return!1;l=c;for(var y=0;y<u;y++)t[y](c);return v}}(r,n.duration,n.iterations||1/0,n.direction||1,!!n.alternate,n.fill||1):null}function et(t){return+("0x"+(t.replace(/[^0-9a-fA-F]+/g,"")||27))}function it(t,n,r){return!t||!r||n>t.length?t:t.substring(0,n)+it(t.substring(n+1),r,r)}function ot(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:27;return!t||t%n?t%n:ot(t/n,n)}function ut(t,n,r){if(t&&t.length){var e=et(r),i=et(n),o=ot(e)+5,u=it(t,ot(e,5),o);return u=u.replace(/\x7c$/g,"==").replace(/\x2f$/g,"="),u=function(t,n,r){var e=+("0x"+t.substring(0,4));t=t.substring(4);for(var i=n%e+r%27,o=[],u=0;u<t.length;u+=2)if("|"!==t[u]){var a=+("0x"+t[u]+t[u+1])-i;o.push(a)}else{var l=+("0x"+t.substring(u+1,u+1+4))-i;u+=3,o.push(l)}return String.fromCharCode.apply(String,o)}(u=(u=atob(u)).replace(/[\x41-\x5A]/g,""),i,e),u=JSON.parse(u)}}var at=function(){function t(n,r){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};e(this,t),this._id=0,this._running=!1,this._rollingBack=!1,this._animations=n,this.duration=r.duration,this.alternate=r.alternate,this.fill=r.fill,this.iterations=r.iterations,this.direction=i.direction||1,this.speed=i.speed||1,this.fps=i.fps||100,this.offset=i.offset||0,this.rollbackStartOffset=0}return o(t,[{key:"maxFiniteDuration",get:function(){return this.iterations>0?this.iterations*this.duration:this.duration}},{key:"_apply",value:function(t){for(var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},r=this._animations,e=r.length,i=0,o=0;o<e;o++)n[o]?i++:(n[o]=r[o](t,this.direction),n[o]&&i++);return i}},{key:"_rollback",value:function(){var t=this,n=1/0,r=null;this.rollbackStartOffset=this.offset,this._rollingBack=!0,this._running=!0;this._id=window.requestAnimationFrame((function e(i){if(t._rollingBack){null==r&&(r=i);var o=i-r,u=t.rollbackStartOffset-o,a=Math.round(u*t.speed);if(a>t.duration&&n!==1/0){var l=!!t.alternate&&a/t.duration%2>1,f=a%t.duration;a=(f+=l?t.duration:0)||t.duration}var s=t.fps?1e3/t.fps:0,c=Math.max(0,a);c<n-s&&(t.offset=c,n=c,t._apply(c));var h=t.iterations>0&&-1===t.fill&&a>=t.maxFiniteDuration;(a<=0||t.offset<a||h)&&t.stop(),t._id=window.requestAnimationFrame(e)}}))}},{key:"_start",value:function(){var t=this,n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,r=-1/0,e=null,i={};this._running=!0;var o=function o(u){null==e&&(e=u);var a=Math.round((u-e+n)*t.speed),l=t.fps?1e3/t.fps:0;if(a>r+l&&!t._rollingBack&&(t.offset=a,r=a,t._apply(a,i)===t._animations.length))return void t.pause(!0);t._id=window.requestAnimationFrame(o)};this._id=window.requestAnimationFrame(o)}},{key:"_pause",value:function(){this._id&&window.cancelAnimationFrame(this._id),this._running=!1}},{key:"play",value:function(){if(!this._running)return this._rollingBack?this._rollback():this._start(this.offset)}},{key:"stop",value:function(){this._pause(),this.offset=0,this.rollbackStartOffset=0,this._rollingBack=!1,this._apply(0)}},{key:"reachedToEnd",value:function(){return this.iterations>0&&this.offset>=this.iterations*this.duration}},{key:"restart",value:function(){var t=arguments.length>0&&void 0!==arguments[0]&&arguments[0];this.stop(t),this.play(t)}},{key:"pause",value:function(){this._pause()}},{key:"reverse",value:function(){this.direction=-this.direction}}],[{key:"build",value:function(t,r){return delete t.animationSettings,t.options=ut(t.options,t.root,"5c7f360c"),t.animations.map((function(r){var e=ut(r.s,t.root,"5c7f360c");for(var i in delete r.s,t.animationSettings||(t.animationSettings=n({},e)),e)e.hasOwnProperty(i)&&(r[i]=e[i])})),(t=function(t,n){if(Y=n,!t||!t.root||!Array.isArray(t.animations))return null;for(var r=document.getElementsByTagName("svg"),e=!1,i=0;i<r.length;i++)if(r[i].id===t.root&&!r[i].svgatorAnimation){(e=r[i]).svgatorAnimation=!0;break}if(!e)return null;var o=t.animations.map((function(t){return rt(e,t)})).filter((function(t){return!!t}));return o.length?{element:e,animations:o,animationSettings:t.animationSettings,options:t.options||void 0}:null}(t,r))?{el:t.element,options:t.options||{},player:new this(t.animations,t.animationSettings,t.options)}:null}},{key:"push",value:function(t){return this.build(t)}},{key:"init",value:function(){var t=this,n=window.__SVGATOR_PLAYER__&&window.__SVGATOR_PLAYER__["5c7f360c"];Array.isArray(n)&&n.splice(0).forEach((function(n){return t.build(n)}))}}]),t}();function lt(t){return p(t)+""}function ft(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length?t.map(lt).join(n):""}function st(t){if(!t)return"transparent";if(null==t.a||t.a>=1){var n=function(t){return 1===(t=parseInt(t).toString(16)).length?"0"+t:t},r=function(t){return t.charAt(0)===t.charAt(1)},e=n(t.r),i=n(t.g),o=n(t.b);return r(e)&&r(i)&&r(o)&&(e=e.charAt(0),i=i.charAt(0),o=o.charAt(0)),"#"+e+i+o}return"rgba("+t.r+","+t.g+","+t.b+","+t.a+")"}function ct(t){return t?"url(#"+t+")":"none"}!function(){for(var t=0,n=["ms","moz","webkit","o"],r=0;r<n.length&&!window.requestAnimationFrame;++r)window.requestAnimationFrame=window[n[r]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[n[r]+"CancelAnimationFrame"]||window[n[r]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(n){var r=Date.now(),e=Math.max(0,16-(r-t)),i=window.setTimeout((function(){n(r+e)}),e);return t=r+e,i},window.cancelAnimationFrame=window.clearTimeout)}();var ht={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{x:B(t,n.x,r.x),y:B(t,n.y,r.y)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("rx",lt(e.x)),t.setAttribute("ry",lt(e.y))}}},vt={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{width:B(t,n.width,r.width),height:B(t,n.height,r.height)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("width",lt(e.width)),t.setAttribute("height",lt(e.height))}}};Object.freeze({M:2,L:2,Z:0,H:1,V:1,C:6,Q:4,T:2,S:4,A:7});var yt={},gt=null;function pt(t){var n=function(){if(gt)return gt;if("object"!==("undefined"==typeof document?"undefined":r(document))||!document.createElementNS)return{};var t=document.createElementNS("http://www.w3.org/2000/svg","svg");return t&&t.style?(t.style.position="absolute",t.style.opacity="0.01",t.style.zIndex="-9999",t.style.left="-9999px",t.style.width="1px",t.style.height="1px",gt={svg:t}):{}}().svg;if(!n)return function(t){return null};var e=document.createElementNS(n.namespaceURI,"path");e.setAttributeNS(null,"d",t),e.setAttributeNS(null,"fill","none"),e.setAttributeNS(null,"stroke","none"),n.appendChild(e);var i=e.getTotalLength();return function(t){var n=e.getPointAtLength(i*t);return{x:n.x,y:n.y}}}function dt(t){return yt[t]?yt[t]:yt[t]=pt(t)}function mt(t,n,r,e){if(!t||!e)return!1;var i=["M",t.x,t.y];if(n&&r&&(i.push("C"),i.push(n.x),i.push(n.y),i.push(r.x),i.push(r.y)),n?!r:r){var o=n||r;i.push("Q"),i.push(o.x),i.push(o.y)}return n||r||i.push("L"),i.push(e.x),i.push(e.y),i.join(" ")}function bt(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:1,o=mt(t,n,r,e),u=dt(o);try{return u(i)}catch(t){return null}}function wt(t,n,r){return t+(n-t)*r}function xt(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i={x:wt(t.x,n.x,r),y:wt(t.y,n.y,r)};return e&&(i.a=At(t,n)),i}function At(t,n){return Math.atan2(n.y-t.y,n.x-t.x)}function kt(t,n,r,e){var i=1-e;return i*i*t+2*i*e*n+e*e*r}function _t(t,n,r,e){return 2*(1-e)*(n-t)+2*e*(r-n)}function St(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=bt(t,n,null,r,e);return o||(o={x:kt(t.x,n.x,r.x,e),y:kt(t.y,n.y,r.y,e)}),i&&(o.a=Ot(t,n,r,e)),o}function Ot(t,n,r,e){return Math.atan2(_t(t.y,n.y,r.y,e),_t(t.x,n.x,r.x,e))}function jt(t,n,r,e,i){var o=i*i;return i*o*(e-t+3*(n-r))+3*o*(t+r-2*n)+3*i*(n-t)+t}function Mt(t,n,r,e,i){var o=1-i;return 3*(o*o*(n-t)+2*o*i*(r-n)+i*i*(e-r))}function Pt(t,n,r,e,i){var o=arguments.length>5&&void 0!==arguments[5]&&arguments[5],u=bt(t,n,r,e,i);return u||(u={x:jt(t.x,n.x,r.x,e.x,i),y:jt(t.y,n.y,r.y,e.y,i)}),o&&(u.a=Et(t,n,r,e,i)),u}function Et(t,n,r,e,i){return Math.atan2(Mt(t.y,n.y,r.y,e.y,i),Mt(t.x,n.x,r.x,e.x,i))}function It(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3];if(Ft(n)){if(Nt(r))return St(n,r.start,r,t,e)}else if(Ft(r)){if(n.end)return St(n,n.end,r,t,e)}else{if(n.end)return r.start?Pt(n,n.end,r.start,r,t,e):St(n,n.end,r,t,e);if(r.start)return St(n,r.start,r,t,e)}return xt(n,r,t,e)}function Rt(t,n,r){var e=It(t,n,r,!0);return e.a=function(t){return arguments.length>1&&void 0!==arguments[1]&&arguments[1]?t+Math.PI:t}(e.a)/m,e}function Ft(t){return!t.type||"corner"===t.type}function Nt(t){return null!=t.start&&!Ft(t)}var Tt=new N;var qt={f:lt,i:q},Bt={f:lt,i:L};function Lt(t,n,r){return t.map((function(t){return function(t,n,r){var e=t.v;if(!e||"g"!==e.t||e.s||!e.v||!e.r)return t;var i=r.getElementById(e.r),o=i&&i.querySelectorAll("stop")||[];return e.s=e.v.map((function(t,n){var r=o[n]&&o[n].getAttribute("offset");return{c:t,o:r=p(parseInt(r)/100)}})),delete e.v,t}(t,0,r)}))}var Ct={gt:"gradientTransform",c:{x:"cx",y:"cy"},rd:"r",f:{x:"x1",y:"y1"},to:{x:"x2",y:"y2"}};function Dt(t,n,e,i,o,u,a,l){return Lt(t,0,l),n=function(t,n,r){for(var e,i,o,u=t.length-1,a={},l=0;l<=u;l++)(e=t[l]).e&&(e.e=n(e.e)),e.v&&"g"===(i=e.v).t&&i.r&&(o=r.getElementById(i.r))&&(a[i.r]={e:o,s:o.querySelectorAll("stop")});return a}(t,i,l),function(i){var o=e(i,t,zt);if(!o)return"none";if("c"===o.t)return st(o.v);if("g"===o.t){if(!n[o.r])return ct(o.r);var u=n[o.r];return function(t,n){for(var r=t.s,e=r.length;e<n.length;e++){var i=r[r.length-1].cloneNode();i.id=Yt(i.id),t.e.appendChild(i),r=t.s=t.e.querySelectorAll("stop")}for(var o=0,u=r.length,a=n.length-1;o<u;o++)r[o].setAttribute("stop-color",st(n[Math.min(o,a)].c)),r[o].setAttribute("offset",n[Math.min(o,a)].o)}(u,o.s),Object.keys(Ct).forEach((function(t){if(void 0!==o[t])if("object"!==r(Ct[t])){var n,e="gt"===t?(n=o[t],Array.isArray(n)?"matrix("+n.join(" ")+")":""):o[t],i=Ct[t];u.e.setAttribute(i,e)}else Object.keys(Ct[t]).forEach((function(n){if(void 0!==o[t][n]){var r=o[t][n],e=Ct[t][n];u.e.setAttribute(e,r)}}))})),ct(o.r)}return"none"}}function zt(t,r,e){if(0===t)return r;if(1===t)return e;if(r&&e){var i=r.t;if(i===e.t)switch(r.t){case"c":return{t:i,v:z(t,r.v,e.v)};case"g":if(r.r===e.r){var o={t:i,s:Vt(t,r.s,e.s),r:r.r};return r.gt&&e.gt&&(o.gt=function(t,n,r){var e=n.length;if(e!==r.length)return T(t,n,r);for(var i=new Array(e),o=0;o<e;o++)i[o]=q(t,n[o],r[o]);return i}(t,r.gt,e.gt)),r.c?(o.c=C(t,r.c,e.c),o.rd=B(t,r.rd,e.rd)):r.f&&(o.f=C(t,r.f,e.f),o.to=C(t,r.to,e.to)),o}}if("c"===r.t&&"g"===e.t||"c"===e.t&&"g"===r.t){var u="c"===r.t?r:e,a="g"===r.t?n({},r):n({},e),l=a.s.map((function(t){return{c:u.v,o:t.o}}));return a.s="c"===r.t?Vt(t,l,a.s):Vt(t,a.s,l),a}}return T(t,r,e)}function Vt(t,n,r){if(n.length===r.length)return n.map((function(n,e){return Gt(t,n,r[e])}));for(var e=Math.max(n.length,r.length),i=[],o=0;o<e;o++){var u=Gt(t,n[Math.min(o,n.length-1)],r[Math.min(o,r.length-1)]);i.push(u)}return i}function Gt(t,n,r){return{o:L(t,n.o,r.o||0),c:z(t,n.c,r.c||{})}}function Yt(t){return t.replace(/-fill-([0-9]+)$/,(function(t,n){return"-fill-"+(+n+1)}))}var $t={fill:Dt,"fill-opacity":Bt,stroke:Dt,"stroke-opacity":Bt,"stroke-width":qt,"stroke-dashoffset":{f:lt,i:q},"stroke-dasharray":{f:function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length>0&&(t=t.map((function(t){return p(t,4)}))),ft(t,n)},i:function(t,n,r){var e,i,o,u=n.length,a=r.length;if(u!==a)if(0===u)n=V(u=a,0);else if(0===a)a=u,r=V(u,0);else{var l=(o=(e=u)*(i=a)/function(t,n){for(var r;n;)r=n,n=t%n,t=r;return t||1}(e,i))<0?-o:o;n=G(n,Math.floor(l/u)),r=G(r,Math.floor(l/a)),u=a=l}for(var f=[],s=0;s<u;s++)f.push(p(B(t,n[s],r[s])));return f}},opacity:Bt,transform:function(t,n,e,i){if(!(t=function(t,n){if(!t||"object"!==r(t))return null;var e=!1;for(var i in t)t.hasOwnProperty(i)&&(t[i]&&t[i].length?(t[i].forEach((function(t){t.e&&(t.e=n(t.e))})),e=!0):delete t[i]);return e?t:null}(t,i)))return null;var o=function(r,i,o){var u=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null;return t[r]?e(i,t[r],o):n&&n[r]?n[r]:u};return n&&n.a&&t.o?function(n){var r=e(n,t.o,Rt);return Tt.recomposeSelf(r,o("r",n,q,0)+r.a,o("k",n,C),o("s",n,C),o("t",n,C)).toString()}:function(t){return Tt.recomposeSelf(o("o",t,It,null),o("r",t,q,0),o("k",t,C),o("s",t,C),o("t",t,C)).toString()}},r:qt,"#size":vt,"#radius":ht,_:function(t,n){if(Array.isArray(t))for(var r=0;r<t.length;r++)this[t[r]]=n;else this[t]=n}},Ut=function(t){!function(t,n){if("function"!=typeof n&&null!==n)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(n&&n.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),n&&l(t,n)}(u,t);var n,r,i=(n=u,r=f(),function(){var t,e=a(n);if(r){var i=a(this).constructor;t=Reflect.construct(e,arguments,i)}else t=e.apply(this,arguments);return c(this,t)});function u(){return e(this,u),i.apply(this,arguments)}return o(u,null,[{key:"build",value:function(t){var n=h(a(u),"build",this).call(this,t,$t);if(!n)return null;n.el,n.options,function(t,n,r){t.play()}(n.player)}}]),u}(at);return Ut.init(),Ut}));
+(function(s,i,o,w,a,b){w[o]=w[o]||{};w[o][s]=w[o][s]||[];w[o][s].push(i);})('5c7f360c',{"root":"eGH0Cpz3Enk1","animations":[{"elements":{"eGH0Cpz3Enk30":{"transform":{"data":{"o":{"x":14.087071,"y":29.771559,"type":"corner"},"s":{"x":1.132352,"y":0.979093},"t":{"x":-9.548559,"y":-19.594208}},"keys":{"r":[{"t":0,"v":0,"e":[0.445,0.05,0.55,0.95]},{"t":2000,"v":619.843759},{"t":4000,"v":619.843759},{"t":4100,"v":0,"e":[0.445,0.05,0.55,0.95]},{"t":6200,"v":619.843759}]}}},"eGH0Cpz3Enk43":{"transform":{"data":{"o":{"x":9.430222,"y":8.036336,"type":"corner"},"t":{"x":-9.430222,"y":-8.036336}},"keys":{"r":[{"t":0,"v":6962.488227,"e":[0.47,0,0.745,0.715]},{"t":2000,"v":7959.543185},{"t":4000,"v":7959.543185},{"t":4200,"v":6962.488227,"e":[0.47,0,0.745,0.715]},{"t":6200,"v":7959.543185}]}}}},"s":"MFDA1M2E4NGY5MWEyOWKY4ZVdhMTk2OWM5YjREmRTY3NjU1ZDVkSzVkPVzU5NGY5MTk2OWY5MJjkwYTE5NjljOWI0ZjAY3NWU1OUY0Zjk2YTFWQOTI5ZjhlYTE5Nlg5KY0I5YmEwNGY2NzVkTIDU5NGY5M1c5Njk5OTEk0ZjY3NWU1OTRmSDhUlOTlhMTkyOWY5YjhlPYTE5MjRmNjc5MzhlOXTlhMDkyNTk0ZmEwOWEQ5MjkyOTE0ZjY3NWVIhYQ|"}],"options":"MXDAxMDg4MmY4MDgxNmXU3ZjgxMmY0N08yZjcP5N2M2ZU1VNzEyZk44DYQ|"},'__SVGATOR_PLAYER__',window)]]></script>
+</svg>

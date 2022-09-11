@@ -5,6 +5,73 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        :root{
+            --white: #FFFFFF;
+            --black: #000000;
+            --dark: #232830;
+            --very-light-pink: #C7C7C7;
+            --text-input-field: #F7F7F7;
+            --hospital-green: #ACD9B2;
+            --strong-green:#73aa7a;
+            --sm:14px;
+            --md:16px;
+            --lg:18px;
+        }
+
+        body{
+            margin:0;
+            font-family: 'Quicksand', sans-serif;
+            background-color:rgb(209, 255, 240);
+        }
+
+        nav{
+            display: flex;
+        }
+
+        .menu{
+            display: none;
+        }
+
+        .logo{
+            width: 150px;
+        }
+
+        .navbar_left ul,
+        .navbar_right ul{
+            list-style: none;
+            padding: 0;
+            margin-top: 24px;
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar_left{
+            display:flex;
+            margin-left: 12px;
+        }
+
+        .navbar_left ul{
+            margin-left: 12px;
+        }
+
+        .navbar_left ul li a,
+        .navbar_right ul li a{
+            text-decoration: none;
+            color:var(--very-light-pink);
+            border: 1px solid rgb(209, 255, 240);
+            padding:8px;
+            border-radius: 8px;
+        }
+
+        .navbar_left ul li a:hover,
+        .navbar_right ul li a:hover{
+            color:var(--strong-green);
+            border: 1px solid var(--strong-green);
+        }
+
+
+    </style>
 </head>
 <body>
     <nav>
@@ -41,11 +108,15 @@
         </div>
 
         <div class="navbar_right">
-            <li>example@yardsale.com</li>
-            <li class="navbar_shopping_cart">
-                <img src="./Icons/icon_shopping_cart.svg" alt="shopping">
-                <div>2</div>
-            </li>
+            <ul>
+                <li>example@yardsale.com</li>
+                <li class="navbar_shopping_cart">
+                    <img src="./Icons/icon_shopping_cart.svg" alt="shopping">
+                    <div>2</div>
+                </li>
+
+            </ul>
+     
 
         </div>
     </nav>
