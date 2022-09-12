@@ -127,8 +127,8 @@ a:hover {
 }
 
 .btn-ghost:hover {
-  background-color: #fff;
-  color: #199EB8;
+  background-color: var(--red-main);
+  color: var(--white);
 }
 
 section {
@@ -424,7 +424,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #199EB8;
+  color: var(--blue-main);
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -437,7 +437,7 @@ a:hover {
 .hero {
   display: table;
   position: relative;
-  background-image: url(/assets/img/north/slide_2.jpg);
+  background-image: url(/assets/img/north/final.gif);
   background-size: cover;
   padding: 150px 0;
   color: #fff;
@@ -449,7 +449,7 @@ a:hover {
   content: "";
   z-index: 0;
   position: absolute;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(24, 24, 24, 0.8);
   width: 100%;
   height: 100%;
   left: 0;
@@ -667,7 +667,7 @@ a:hover {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: #199EB8;
+  background-color: var(--blue-main);
   padding: 25px 0;
 }
 
@@ -690,30 +690,6 @@ a:hover {
   top: 13px;
 }
 
-
-#bgvid{
-  display:block;
-  line-height: 0;
-  width:100%;
-  height: 45.4375rem;
-  object-fit:cover;
-  z-index:-0;
-  padding: 0;
-}
-
-#video_title{
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  width:100%;
-  color:var(--white);
-  padding: 1rem 1rem;
-  font-size: 3rem;
-  font-weight: 700;
-  letter-spacing: .2rem;
-  text-shadow: .1rem .1rem .8rem black;
-  z-index:1;
-}
 
 /* ==================================================
   Portfolio Styling
@@ -1016,7 +992,9 @@ a:hover {
   padding: 0;
 }
 
-
+#data-footer p{
+  color: var(--white);
+}
 #img-footer {
   display:flex;
   justify-content:center;
