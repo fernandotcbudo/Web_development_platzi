@@ -667,7 +667,7 @@ a:hover {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: var(--blue-main);
+  background-color: var(--blue_second);
   padding: 25px 0;
 }
 
