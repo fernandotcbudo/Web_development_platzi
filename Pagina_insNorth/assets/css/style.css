@@ -613,6 +613,11 @@ a:hover {
   margin-bottom: 45px;
 }
 
+#animation{
+  position: relative;
+  bottom:30px;
+}
+
 /* ==================================================
   Features Styling
   ================================================== */
