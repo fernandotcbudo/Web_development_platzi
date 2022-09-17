@@ -1,9 +1,4 @@
-/**
-* Template Name: Bell - v4.7.1
-* Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
