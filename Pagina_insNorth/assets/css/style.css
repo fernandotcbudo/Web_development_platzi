@@ -665,17 +665,26 @@ a:hover {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: var(--blue_second);
-  padding: 25px 0;
+  
+  background-image: linear-gradient(to left bottom, #1f4189, #3554a4, #4967c0, #5e7bdd, #7390fb);
+}
+
+#fintech-text{
+  display:flex !important;
+  align-items: center;
+
 }
 
 .cta h2 {
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 .cta h2,
 .cta p {
   color: #fff;
+  text-align: center;
+  align-items: center;
+  align-content: center;
 }
 
 .cta p {
@@ -686,6 +695,11 @@ a:hover {
 .cta .btn-ghost {
   position: relative;
   top: 13px;
+}
+
+.row div>.image-product{
+  max-width: 100%;
+  height: auto;
 }
 
 
