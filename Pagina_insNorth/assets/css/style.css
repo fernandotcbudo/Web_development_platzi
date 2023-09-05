@@ -499,6 +499,18 @@ a:hover {
 
 }
 
+.sygnus_main_container{
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+}
+
+.sygnus_main_logo img{
+  
+  width: 400px;
+  height: 400px;
+}
+
 .new__products_cards{
   width:350px;
   display: grid;
@@ -560,6 +572,15 @@ a:hover {
 
 #w4{
   background-image: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%);
+}
+
+#w5{
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+#w5{
+  position: relative;
+  left: 155px;
 }
 
 .new__products_cards .wrapper .content__new_products{
@@ -640,38 +661,103 @@ a:hover {
 /*--------------------------------------------------------------
 # Stats
 --------------------------------------------------------------*/
-.stats-row {
-  margin-top: 65px;
+.container_about{
+  height: 650px;
 }
 
-.stats-col .circle {
-  display: inline-block;
-  width: 160px;
-  height: 160px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  color: #666;
-  border: 6px solid var(--blue_second);
-  border-radius: 50%;
-  padding: 55px 25px 0 25px;
+.container_about p{
+  width: 70vw;
+  text-align: center;
+  margin:0 auto;
+}
+
+.contador_wrapper{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  gap: 40px;
+}
+
+.plus1{
+  display: flex;
+  justify-content: left;
   position: relative;
+  top:55px;
+  left:75px;
+  margin:0;
 }
 
-.stats-col .circle .stats-no {
-  color: #fff;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
-  top: -25px;
-  right: -15px;
-  font-family: "Poppins", sans-serif;
-  font-size: 18px;
-  background-color: var(--red-main);
-  position: absolute;
-  border-radius: 50%;
-  font-weight: 700;
+.plus2{
+  display: flex;
+  justify-content: left;
+  position: relative;
+  top:55px;
+  left:130px;
+  margin:0;
 }
 
+.letter1{
+  display: flex;
+  justify-content: right;
+  position: relative;
+  top:-45px;
+  right:80px;
+  margin:0;
+}
+
+.letter2{
+  display: flex;
+  justify-content: right;
+  position: relative;
+  top:-45px;
+  right:120px;
+  margin:0;
+}
+
+.desc_sujetos{
+  position: relative;
+  top:-35px;
+}
+
+.desc_libranzas{
+  position: relative;
+  top:-35px;
+}
+.contador .bi-person-check , .bi-cash-coin, .bi-bank2, .bi-briefcase {
+  color: #173b77;
+}
+
+.contador h2{
+  color: #173b77;
+}
+
+.contador_cantidad{
+  font-size:40px;
+}
+
+@keyframes aparecer{
+  0%{
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.ocultar{
+  opacity: 0;
+}
+
+.animar{
+  animation: aparecer 1.3s;
+}
+/*--------------------------------------------------------------
+# Animation
+--------------------------------------------------------------*/
 .welcome object{
   width: 300px;
   height: 300px;
