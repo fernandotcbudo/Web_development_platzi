@@ -10,6 +10,7 @@
   --black:#0d0d0d;
   --white: #FFFFFF;
 
+
 }
 
 
@@ -199,6 +200,7 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+
   .header-social-links {
     margin: 0 15px 0 0;
   }
@@ -309,6 +311,7 @@ a:hover {
 }
 
 @media (max-width: 1366px) {
+
   .navbar .dropdown .dropdown ul {
     left: -90%;
   }
@@ -430,7 +433,7 @@ a:hover {
 .hero {
   display: table;
   position: relative;
-  background-image: url(/assets/img/north/final.gif);
+  background-image: url(/prototiponw/pagina_north/assets/img/north/final.gif);
   background-size: cover;
   padding: 150px 0;
   color: #fff;
@@ -483,7 +486,7 @@ a:hover {
 --------------------------------------------------------------*/
 
 #about{
-  background-image: url(/assets/img/north/55_preview_white.png);
+  background-image: url(/prototiponw/pagina_north/assets/img/north/55_preview_white.png);
   background-repeat:no-repeat;
 }
 
@@ -501,14 +504,23 @@ a:hover {
 
 .sygnus_main_container{
   margin: 0 auto;
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
 }
+
+.sygnus_main_container > h3{
+     position:inherit;
+     top:10px;
+     position: relative; 
+     top: -60px; 
+     color:#1f4189; 
+     text-align:center
+  }
 
 .sygnus_main_logo img{
   
-  width: 400px;
-  height: 400px;
+  width: 450px;
+  height: 450px;
 }
 
 .new__products_cards{
@@ -520,6 +532,13 @@ a:hover {
   justify-content: center;
   padding-top: 70px;
   
+}
+
+.new__products_title p{
+  position:relative;
+  bottom:45px; 	
+  font-size:17px;
+  text-align:center;
 }
 
 .new__products_cards .wrapper{
@@ -559,11 +578,12 @@ a:hover {
 }
 
 #w1{
-  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+  
 }
 
 #w2{
-  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 }
 
 #w3{
@@ -627,19 +647,49 @@ a:hover {
 
 }
 
-
-
-
 @media (max-width: 992px) {
 
+ .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+   padding-left:0;
+ }
+
+
+  .sygnus_main_container{
+    width: 230px;
+    height:230px;  	                                                                                                                                                                                                                                                                                                                                                      
+  }
+
+  .sygnus_main_container > h3{
+     position:relative;
+     top:-30px;
+     
+  }
+
+  .new__products_cards .wrapper .image_card_1{
+    position : relative;
+    width : 210px;
+    height : 210px;
+    background-color: var(--white);
+    top : -40%;
+    left: 8px;
+    box-shadow : 0 5px 20px rgba(0,0,0,0.2);
+    border-radius : 10px;
+    z-index : 1;
+  }
+
+  .sygnus_main_logo img{
+    width: 220px;
+    height: 220px;
+  }
+
   .new__products_cards{
-    width:250px;
+    width:220px;
     display: flex;
     flex-direction: column;
     justify-items: center;
     justify-content: center;
     margin-right: 100px;
-    padding-top: 20px;
+    padding-top: 85px;
   }
 
   .p-2{
@@ -651,22 +701,33 @@ a:hover {
 
   .new__products_cards div{
     display: flex;
-    width:250px;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    width:200px;
+
+  }
+
+  #w5{
+    position: relative;
+    left: 10px;
   }
 }
+
+
+
 /*--------------------------------------------------------------
 # Stats
 --------------------------------------------------------------*/
 .container_about{
-  height: 650px;
+  height: 460px;
+}
+
+.container_about > .title_counter1{
+  position:relative;
+  top:70px;
 }
 
 .container_about p{
   width: 70vw;
+  font-size:17px;
   text-align: center;
   margin:0 auto;
 }
@@ -755,6 +816,120 @@ a:hover {
 .animar{
   animation: aparecer 1.3s;
 }
+
+@media (max-width: 992px) {
+
+  .container_about{
+    height: 950px;
+  }
+
+  .contador_wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+  }
+
+  #sujetos{
+    position: relative;
+    top:-110px;
+  }
+
+  .contador .bi-person-check::before{
+    font-size: 40px;
+
+  }
+
+  .contador .plus1{
+    display: flex;
+    justify-content: left;
+    font-size: 30px;
+    position: relative;
+    left: 45px;
+    top:45px;
+  }
+
+  .letter1{
+    display: flex;
+    justify-content: right;
+    font-size: 30px;
+    position: relative;
+    left: -45px;
+    top:-40px;
+  }
+
+  .contador .contador_cantidad{
+    font-size: 30px;
+  }
+
+  .contador .desc_sujetos{
+    font-size: 20px;
+  }
+
+  #operadores{
+    position: relative;
+    top:-140px;
+  }
+
+  .contador .bi-bank2::before{
+    font-size: 40px;
+
+  }
+
+  .contador .contador_cantidad{
+    font-size: 30px;
+
+  }
+
+  .contador .desc_op{
+    font-size: 20px;
+    position: relative;
+    top:-20px;
+  }
+
+
+  .contador #contador_op{
+    position: relative;
+    top:-20px;
+  }
+
+
+  #libranzasg{
+    position: relative;
+    top:-210px;
+  }
+
+  .contador .bi-cash-coin::before{
+    font-size: 40px;
+
+  }
+
+  .contador .plus2{
+    font-size: 30px;
+    width: 15px;
+    position: relative;
+    left:80px;
+    top:45px;
+  }
+
+  .contador .letter2{
+    position: relative;
+    right:70px;
+    top:-40px;
+    font-size:30px;
+  }
+
+  .contador .contador_cantidad{
+    font-size: 30px;
+  }
+
+  .contador .desc_libranzas{
+    font-size: 20px;
+  }
+}
+
 /*--------------------------------------------------------------
 # Animation
 --------------------------------------------------------------*/
@@ -845,7 +1020,8 @@ a:hover {
 
 /* ==================================================
   Features Styling
-  ================================================== */
+  ================================================== */  
+  
 .features {
   padding-bottom: 45px;
 }
@@ -853,6 +1029,12 @@ a:hover {
 .features h2 {
   color: var(--red-main);
 }
+
+.features .container > .p_nuestro{
+  margin-bottom:4rem;
+  text-align:center;
+  padding-left:1rem;	
+} 
 
 .feature-col {
   display: table;
@@ -890,7 +1072,7 @@ a:hover {
 .feature-col p {
   font-family: "Poppins", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  color: #999;
+  color: #404040;
 }
 
 /* ==================================================
@@ -907,8 +1089,15 @@ a:hover {
 
 }
 
+.cta  .btn-primary{
+  position: relative; 
+  left: 330px; 
+  top: 20px;	
+}
+
 .cta h2 {
   margin-bottom: 8px;
+  padding-left: 15px;
 }
 
 .cta h2,
@@ -922,6 +1111,7 @@ a:hover {
 .cta p {
   margin-bottom: 0;
   opacity: 0.75;
+  padding-left: 15px;
 }
 
 .cta .btn-ghost {
@@ -932,6 +1122,18 @@ a:hover {
 .row div>.image-product{
   max-width: 100%;
   height: auto;
+}
+
+
+
+@media (max-width: 992px){
+
+.cta  .btn-primary{
+  position: relative; 
+  left: 5px; 
+  top: 20px;	
+}
+
 }
 
 
@@ -946,8 +1148,12 @@ a:hover {
 .portfolio h2 {
   color: var(--red-main);
   margin-bottom: 25px;
+  padding-left:15px;
 }
 
+.portfolio .container>.p_clientes{
+  padding-left:15px;
+}
 .portfolio-grid {
   margin-top: 65px;
 }
