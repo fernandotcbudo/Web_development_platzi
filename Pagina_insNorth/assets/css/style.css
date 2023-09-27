@@ -366,7 +366,6 @@ a:hover {
   position: absolute;
   top: 55px;
   right: 15px;
-  bottom: 15px;
   left: 15px;
   padding: 10px 0;
   border-radius: 8px;
@@ -1089,9 +1088,13 @@ a:hover {
 
 }
 
+.fintech_wrapper{
+  text-align: center !important;
+}
+
 .cta  .btn-primary{
   position: relative; 
-  left: 330px; 
+  left: 15px; 
   top: 20px;	
 }
 
@@ -1125,8 +1128,7 @@ a:hover {
 }
 
 
-
-@media (max-width: 992px){
+@media screen and (max-width: 992px){
 
 .cta  .btn-primary{
   position: relative; 
