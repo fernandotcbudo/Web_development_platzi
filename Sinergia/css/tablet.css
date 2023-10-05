@@ -1,0 +1,240 @@
+nav{
+    overflow: hidden;
+}
+
+.menu-top{
+    display: flex;
+    justify-content:flex-end;
+    position: relative;
+    top:35px;
+    left:650px;
+    width: 800px;
+    height: auto;
+
+}
+
+.enlace{
+    padding-left: 20px;
+    top: calc(-2% - 100px);
+    right: calc(80% - 100px);
+    
+}
+
+.logo{
+    height: 200px;
+    width: 290px;
+}
+
+nav .menu-top {
+    display: inline-block;
+    line-height: 15px;
+    margin: 0 5px;  
+    
+
+}
+nav .menu-top div{
+    
+    border-radius: 3px;
+    text-transform: uppercase;
+
+}
+
+nav .menu-top h2 {
+    font-size: 3rem;
+    line-height: 30px;
+    color: var(--just-white);
+    position: absolute;
+    left:-300px;
+    top:-25px;
+    
+
+}
+.menu-top  h2:hover{
+    color: var(--main-orange);
+    transition: .5s;
+}
+
+.checkbtn{
+    display: none;
+}
+#check{
+    display: none;
+}
+
+
+
+.bitcoin-img-container h2{
+    font-size: 13rem;
+}
+
+
+
+.currency-table--container span{
+    display: flex;
+    position: relative;
+    top:-160px;
+    left: 170px;
+    width: 500px;
+    height: 500px;
+    background-image: url("/assets/grafic.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment:scroll;
+}
+
+    
+.card__description__desktop{
+    display: flex;
+    z-index: 5;
+    position: absolute; 
+    font-size: 1.4rem;
+    top:110px;
+    left:40px;
+    width: 1170px;
+    height: 40px;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: center;
+    align-content: space-between;
+    gap: 30px;
+}
+
+.card__description__desktop li{
+
+    background-color: #EF8B13;
+    padding: 15px;
+    height: auto;
+
+}
+
+.main-exchange-container--title p {
+    font-size: 3rem;
+    line-height: 40px;
+}
+
+.main-exchange-container--title h2 {
+    position: relative;
+    top:160px;
+    width: 300px;
+    font-size: 4rem;
+    line-height: 40px;
+}
+
+
+/*Cards*/
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+
+.card-wrapper , hr{
+    display: none;
+}
+
+.form__main-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:100px;
+}
+
+form{
+    
+    width:570px;
+
+}
+
+.call2a{
+    color:#fff;
+    background-image: url("/assets/ciudad-de-noche.jpg");
+    background-size: contain;
+}
+
+.form__main-container .call2a {
+    font-size: 4rem;
+    width: 470px;
+    height: 200px;
+}
+
+.aly__container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    gap:30px;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    height: 150px;
+}
+
+.title-aly__container p{
+    position: relative;
+    font-size: 3rem;
+    left:-170px;
+    display: flex;
+    justify-content: left;
+}
+
+.images-aly__container{
+    gap:60px;
+
+}
+
+.images-aly__container{
+    width: 50%;
+    position: relative;
+    right: 100px;
+}
+
+.images-aly__container .img-1 {
+    width: 150px;
+    height: 150px;
+    background-position: center;
+}
+
+.images-aly__container .img-2 {
+    width: 150px;
+    height: 150px;
+    background-position: center;
+}
+
+.images-aly__container .img-3 {
+    width: 150px;
+    height: 150px;
+    background-position: center;
+}
+
+.images-aly__container .img-4 {
+    width: 150px;
+    height: 150px;
+    background-position: center;
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    width: 100%;
+}
+
+footer section {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .left ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    gap:30px;
+    font-size: 2.3rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    list-style: none;
+}
+
